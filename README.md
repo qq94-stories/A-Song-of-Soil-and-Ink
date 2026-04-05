@@ -6,7 +6,7 @@ A four-year-old boy wakes from a fever that should have killed him. He can't rem
 
 *They'll notice the food first. Then the roads. Then the steel. By the time they notice the rest, it won't matter.*
 
-**Tags:** ASOIAF, Self-Insert, Kingdom Building, Slow Burn, No Harem, Male Protagonist, Weak to Strong, Economics, Politics, Agriculture, Technology Uplift, No Foreknowledge, Original Spin on Canon, Family Dynamics, Rational Fiction, Base Building, Crafting, War Profiteering, Colonialism, Trading Company, Medical Knowledge, Printing Press, Long Fiction, Regular Updates
+**Tags:** ASOIAF, Self-Insert, Kingdom Building, Slow Burn, Male Protagonist, Weak to Strong, Economics, Politics, Agriculture, Technology Uplift, No Foreknowledge, Original Spin on Canon, Family Dynamics, Rational Fiction, Base Building, Crafting, War Profiteering, Colonialism, Trading Company, Medical Knowledge, Printing Press, Long Fiction, Regular Updates
 
 **Genre Tags:** Fantasy, Low Magic, Political Intrigue, Kingdom Building, Slice of Life (early arcs), War (later arcs)
 
