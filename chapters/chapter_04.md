@@ -1,4 +1,6 @@
-## Chapter 4 — The Library
+[SPOILER=Disclaimer]This is a work of fan fiction based on A Song of Ice and Fire by George R.R. Martin. I do not own any of the original characters, settings, or lore. This story is written for entertainment purposes only and no profit is being made. All original characters and plotlines are my own.[/SPOILER]
+
+[H2]Chapter 4 — The Library[/H2]
 
 The library at Highgarden smelled like dust and ambition.
 
@@ -12,7 +14,7 @@ Three walls of shelves. Floor to ceiling. Maybe two hundred volumes, plus loose 
 
 Two hundred books.
 
-In a world where a single volume might cost what a smallfolk family earned in a year, this was wealth. This was Highgarden saying *we can afford to let knowledge sit in a room and gather dust*. Most castles in Westeros probably had a shelf. Maybe two. The Citadel had tens of thousands, but they hoarded knowledge the way dragons hoarded gold — fiercely, jealously, and with the firm conviction that nobody else could be trusted with it.
+In a world where a single volume might cost what a smallfolk family earned in a year, this was wealth. This was Highgarden saying [I]we can afford to let knowledge sit in a room and gather dust[/I]. Most castles in Westeros probably had a shelf. Maybe two. The Citadel had tens of thousands, but they hoarded knowledge the way dragons hoarded gold — fiercely, jealously, and with the firm conviction that nobody else could be trusted with it.
 
 Two hundred books. I wanted to cry, and I wasn't entirely sure if it was joy or grief.
 
@@ -26,9 +28,9 @@ The maester found me there an hour later, sitting cross-legged on the floor with
 
 "My lord Willas." Maester Lomys stood in the doorway, hands folded into his sleeves. He was a tall man running to softness at the middle, with a chain of many links and an expression that suggested he'd found a dog where he expected a book. "You've discovered the library."
 
-"There are maps," I said, holding up the book like a trophy. "Of *our* lands."
+"There are maps," I said, holding up the book like a trophy. "Of [I]our[/I] lands."
 
-The possessive pronoun was calculated. *Our* lands. Not just pretty pictures in a book — *mine*, or as close to mine as a five-year-old could claim. Let him see the heir taking interest in his inheritance. Let him report that to my father with a warm glow of approval.
+The possessive pronoun was calculated. [I]Our[/I] lands. Not just pretty pictures in a book — [I]mine[/I], or as close to mine as a five-year-old could claim. Let him see the heir taking interest in his inheritance. Let him report that to my father with a warm glow of approval.
 
 Lomys smiled. It was the smile of a man who'd taught children of noble houses before and knew how this went: the initial enthusiasm, the gradual drift toward boredom, the inevitable return to wooden swords and riding lessons. He'd seen plenty of young lords "discover" the library. Most discovered it once and never came back.
 
@@ -38,7 +40,7 @@ Lomys smiled. It was the smile of a man who'd taught children of noble houses be
 
 He could. He did. And thus began the phase of my infiltration that I privately called Operation Look Natural.
 
-***
+[HR]
 
 The trick to hiding in plain sight is giving people a story they already want to believe.
 
@@ -54,17 +56,17 @@ The approved reading was the cover. The real work happened in the gaps.
 
 I'd ask a question about the Mander's flooding patterns — innocent enough, rivers flood, children are curious about floods — and Lomys would explain the annual cycle. Snowmelt from the mountains, spring rains, the way the river swelled and deposited rich soil along its banks. I'd nod and ask another question, and another, and he'd mistake my systematic extraction of hydrological data for childish fascination.
 
-"Why do the farmers plant after the floods?" I asked one morning, knowing exactly why, needing to know what *he* knew about it.
+"Why do the farmers plant after the floods?" I asked one morning, knowing exactly why, needing to know what [I]he[/I] knew about it.
 
 "The waters leave good soil behind," Lomys said. "Rich and dark. The fields nearest the river produce the finest harvests."
 
-Alluvial deposits. Silt and organic matter carried downstream, spread across the floodplain, creating some of the most fertile agricultural land possible. He knew the *what*. He didn't know the *why* — didn't know about nutrient transport, mineral composition, the specific role of nitrogen and phosphorus in plant growth. He knew that river-mud grew good wheat the way a peasant knew that the sun rose in the east: as fact, not mechanism.
+Alluvial deposits. Silt and organic matter carried downstream, spread across the floodplain, creating some of the most fertile agricultural land possible. He knew the [I]what[/I]. He didn't know the [I]why[/I] — didn't know about nutrient transport, mineral composition, the specific role of nitrogen and phosphorus in plant growth. He knew that river-mud grew good wheat the way a peasant knew that the sun rose in the east: as fact, not mechanism.
 
-The gap between knowing *that* and knowing *why* was the gap between this world and The Book.
+The gap between knowing [I]that[/I] and knowing [I]why[/I] was the gap between this world and The Book.
 
 It was enormous.
 
-***
+[HR]
 
 I should talk about the books themselves, because they were fascinating in the way a time capsule is fascinating — you learn as much from what's missing as from what's there.
 
@@ -72,23 +74,23 @@ Highgarden's library was, by Westerosi standards, excellent. Two hundred-odd vol
 
 The practical texts were what I was really after. And they were... well.
 
-*On the Tilling of Fields*, attributed to a Maester Gareth who'd served Highgarden a century past, contained exactly three useful observations buried in forty pages of received wisdom and outright superstition. The useful bits: plant legumes and grain in alternating seasons (crop rotation, sort of, arrived at by accident and tradition rather than understanding), manure improves soil (true), and fields need rest (also true, though the reasoning was about the soil's "vital humors" needing to regenerate, which was not true in any way that mattered).
+[I]On the Tilling of Fields[/I], attributed to a Maester Gareth who'd served Highgarden a century past, contained exactly three useful observations buried in forty pages of received wisdom and outright superstition. The useful bits: plant legumes and grain in alternating seasons (crop rotation, sort of, arrived at by accident and tradition rather than understanding), manure improves soil (true), and fields need rest (also true, though the reasoning was about the soil's "vital humors" needing to regenerate, which was not true in any way that mattered).
 
 The rest was folklore wearing scholarly robes. Plant by the phases of the moon. Sing to the wheat at dawn. Bury a dead cat at the corner of a new field for luck. I read that last one three times to make sure I hadn't hallucinated it.
 
 I had not.
 
-*A Treatise on the Beasts of the Field*, covering animal husbandry, was marginally better. Whoever had written it had actually observed animals, which put them ahead of Maester Gareth and his dead cats. Breeding practices were described in enough detail to be useful, though the understanding of heredity was — unsurprisingly — nonexistent. They knew that breeding a strong bull to a strong cow tended to produce strong calves. They did not know why, and their guesses ranged from "the gods' favor" to "vital essences mingling in the womb" to one memorable passage that I think was trying to describe genetics but got lost somewhere around humoral theory and never found its way back.
+[I]A Treatise on the Beasts of the Field[/I], covering animal husbandry, was marginally better. Whoever had written it had actually observed animals, which put them ahead of Maester Gareth and his dead cats. Breeding practices were described in enough detail to be useful, though the understanding of heredity was — unsurprisingly — nonexistent. They knew that breeding a strong bull to a strong cow tended to produce strong calves. They did not know why, and their guesses ranged from "the gods' favor" to "vital essences mingling in the womb" to one memorable passage that I think was trying to describe genetics but got lost somewhere around humoral theory and never found its way back.
 
 Mendel wouldn't be born for centuries. Assuming Mendel existed in whatever version of reality I now inhabited, which was an assumption I tried not to think about too hard.
 
-The point was this: the knowledge existed, but it was fragmented, unsystematic, and buried under layers of tradition and superstition like a diamond encased in mud. Every useful fact was surrounded by ten useless ones, and there was no framework for telling them apart. No scientific method. No controlled experiments. No understanding that you could *test* whether burying dead cats actually helped your harvest by burying a cat in one field and not in another and comparing the results.
+The point was this: the knowledge existed, but it was fragmented, unsystematic, and buried under layers of tradition and superstition like a diamond encased in mud. Every useful fact was surrounded by ten useless ones, and there was no framework for telling them apart. No scientific method. No controlled experiments. No understanding that you could [I]test[/I] whether burying dead cats actually helped your harvest by burying a cat in one field and not in another and comparing the results.
 
 They had observation without methodology. Data without analysis. Centuries of accumulated experience and absolutely no way to separate the signal from the noise.
 
 And The Book — my perfect, crystalline mental encyclopedia — held the signal. All of it. Every agricultural technique humanity had ever developed, from the Neolithic revolution to modern industrial farming, organized and indexed and illustrated with the kind of clarity that made me want to weep with gratitude and scream with frustration in equal measure.
 
-I knew how to build a seed drill. A winnowing machine. A proper crop rotation system based on actual soil chemistry rather than lunar phases and folk superstition. I knew about selective breeding, grafting techniques, irrigation systems, drainage, composting, nitrogen fixation, and a hundred other things that could transform the Reach from the breadbasket of Westeros into something the word *breadbasket* couldn't even begin to describe.
+I knew how to build a seed drill. A winnowing machine. A proper crop rotation system based on actual soil chemistry rather than lunar phases and folk superstition. I knew about selective breeding, grafting techniques, irrigation systems, drainage, composting, nitrogen fixation, and a hundred other things that could transform the Reach from the breadbasket of Westeros into something the word [I]breadbasket[/I] couldn't even begin to describe.
 
 I knew all of this.
 
@@ -102,13 +104,13 @@ But I was also, I reminded myself, five. I had time. Assuming I didn't die of so
 
 Patience. The most unnatural virtue for someone who could see exactly where they needed to go and couldn't take a single step.
 
-***
+[HR]
 
 The notebook started as an accident.
 
 Lomys had given me parchment and a quill for practicing my letters — the approved curriculum for a five-year-old heir included basic literacy, and I performed the role with only slight exasperation at forming letters I could have written in my sleep. My handwriting was deliberately terrible. A child's scrawl, thick and uneven, the quill gripped in a fist because fine motor control at this age was genuinely difficult and also because a child who wrote in a clean, adult hand would raise questions I couldn't answer.
 
-But I needed to write things down. Not because I'd forget — The Book never changed, never faded, never lost a page. My mental encyclopedia was as perfect today as it had been the day I woke from the fever, and I had every reason to believe it would stay that way. The problem wasn't memory. The problem was *planning*.
+But I needed to write things down. Not because I'd forget — The Book never changed, never faded, never lost a page. My mental encyclopedia was as perfect today as it had been the day I woke from the fever, and I had every reason to believe it would stay that way. The problem wasn't memory. The problem was [I]planning[/I].
 
 The Book was a reference, not a roadmap. It told me how to build a waterwheel but not when, or in what order, or which prerequisite technologies I'd need first, or how to convince the people around me that a waterwheel was worth building. For that, I needed to think. And thinking, for me, worked better on paper than in my head.
 
@@ -126,17 +128,17 @@ I wrote in a code that wasn't really a code — just terrible handwriting combin
 
 The list started small.
 
-*Soil.* Underneath, in my scrawl: *beans + wheat? compost. worms. test.*
+[I]Soil.[/I] Underneath, in my scrawl: [I]beans + wheat? compost. worms. test.[/I]
 
-*Water.* Below that: *mill? river. power. grinding.*
+[I]Water.[/I] Below that: [I]mill? river. power. grinding.[/I]
 
-*Tools.* Just the word, followed by a sketch that might have been a wheelbarrow or might have been a very ugly dog. Even I wasn't sure, and I'd drawn it.
+[I]Tools.[/I] Just the word, followed by a sketch that might have been a wheelbarrow or might have been a very ugly dog. Even I wasn't sure, and I'd drawn it.
 
-*Food.* This one got more detail: *preservation. salt. smoke. drying. vinegar?*
+[I]Food.[/I] This one got more detail: [I]preservation. salt. smoke. drying. vinegar?[/I]
 
-*Health.* Two words below: *wash hands.*
+[I]Health.[/I] Two words below: [I]wash hands.[/I]
 
-That last one might save more lives than everything else on the list combined. The single most impactful piece of knowledge in The Book wasn't a machine or an agricultural technique or an engineering marvel — it was the germ theory of disease, and its simplest application was *washing your hands*. Doctors in my... in the world The Book came from... had killed patients for centuries by going from autopsies to deliveries without washing up. The solution was soap and water. The barrier was convincing people that invisible things could hurt them when they lived in a world where the dominant medical theory involved imbalanced humors and bad smells.
+That last one might save more lives than everything else on the list combined. The single most impactful piece of knowledge in The Book wasn't a machine or an agricultural technique or an engineering marvel — it was the germ theory of disease, and its simplest application was [I]washing your hands[/I]. Doctors in my... in the world The Book came from... had killed patients for centuries by going from autopsies to deliveries without washing up. The solution was soap and water. The barrier was convincing people that invisible things could hurt them when they lived in a world where the dominant medical theory involved imbalanced humors and bad smells.
 
 I'd get to that. Eventually. When I was old enough that suggesting hand-washing wouldn't result in a concerned maester prescribing me more bed rest.
 
@@ -146,7 +148,7 @@ I was, I reflected one evening while watching a page of notes curl and blacken i
 
 That seemed fine. Paranoid kindergarteners survive.
 
-***
+[HR]
 
 Lomys, to his credit, noticed that my interests were unusual. He didn't find them alarming — I was careful about that — but he noticed.
 
@@ -174,13 +176,13 @@ Nobody was counting. Not really. The lords knew what their lands produced in the
 
 I made a note in my notebook that evening, crouched by candlelight with my quill.
 
-*Counting. Nobody counts. MUST count.*
+[I]Counting. Nobody counts. MUST count.[/I]
 
-Underneath, in slightly clearer handwriting than I should have used: *You cannot improve what you do not measure.*
+Underneath, in slightly clearer handwriting than I should have used: [I]You cannot improve what you do not measure.[/I]
 
 The Book had a whole section on management theory. Most of it was irrelevant to a feudal agricultural society — I didn't need to know about quarterly earnings reports or stakeholder engagement frameworks. But the core principle translated perfectly: data precedes optimization. You measure, then you improve. You track, then you adjust. You count, because counting is how you turn "it seems like the harvest was good" into "the harvest produced twelve thousand bushels, which is eight hundred more than last year and four thousand less than we'd get with proper crop rotation and soil management."
 
-The gap between this world and the one in The Book wasn't just technology. It wasn't just science. It was *methodology*. These people were smart — they'd built castles and ships and cities and a civilization that spanned a continent. But they'd done it without the single most powerful tool in the intellectual arsenal.
+The gap between this world and the one in The Book wasn't just technology. It wasn't just science. It was [I]methodology[/I]. These people were smart — they'd built castles and ships and cities and a civilization that spanned a continent. But they'd done it without the single most powerful tool in the intellectual arsenal.
 
 They didn't know how to know things systematically.
 
@@ -188,7 +190,7 @@ I did.
 
 And I was going to introduce the concept of writing things down and comparing them to other things you'd written down, and it was going to be the most boring revolution in history, and nobody was going to see it coming because nobody worries about a five-year-old with a notebook.
 
-***
+[HR]
 
 That night, I sat in bed with the notebook on my knees and the candle burning low, and I read through my list.
 

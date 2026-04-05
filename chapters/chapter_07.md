@@ -1,6 +1,8 @@
-## Chapter 7 -- Interlude: Olenna
+[SPOILER=Disclaimer]This is a work of fan fiction based on A Song of Ice and Fire by George R.R. Martin. I do not own any of the original characters, settings, or lore. This story is written for entertainment purposes only and no profit is being made. All original characters and plotlines are my own.[/SPOILER]
 
--- Olenna --
+[H2]Chapter 7 -- Interlude: Olenna[/H2]
+
+[CENTER][B]-- Olenna --[/B][/CENTER]
 
 The boy was reading again.
 
@@ -16,7 +18,7 @@ Willas was not that.
 
 Willas was something she didn't have a word for, and Olenna Tyrell had words for everything.
 
-***
+[HR]
 
 She'd first noticed it three years ago. Not the moment it happened -- she hadn't been at Highgarden when the fever broke, had been at her apartments in Oldtown dealing with a tedious dispute between the Hightowers and a merchant guild that had required her particular talent for making people feel stupid until they agreed with her. By the time she returned, the crisis was over. The maester said the boy had nearly died. Alerie said he was different afterward. Mace said something about swords that Olenna had ignored because Mace said things about swords the way rain fell -- constantly, without purpose, and dampening everything in the vicinity.
 
@@ -34,13 +36,13 @@ Olenna had answered carefully, the way you answer when you realize mid-conversat
 
 A single word. The most dangerous word in any language, and he'd wielded it the way a maester wields a scalpel -- precisely, purposefully, cutting straight to the thing beneath the thing.
 
-She'd told him she didn't know. Because she didn't. Because Olenna Tyrell had lived six decades in the most fertile region on the continent and had never once wondered why flood-wet fields grew better than dry ones, because it had never occurred to her that there was a *why* beyond "the gods made it so" or "it's always been that way," both of which were answers that Olenna privately considered to be sophisticated forms of shrugging.
+She'd told him she didn't know. Because she didn't. Because Olenna Tyrell had lived six decades in the most fertile region on the continent and had never once wondered why flood-wet fields grew better than dry ones, because it had never occurred to her that there was a [I]why[/I] beyond "the gods made it so" or "it's always been that way," both of which were answers that Olenna privately considered to be sophisticated forms of shrugging.
 
 He'd nodded. Not disappointed. Not surprised. Just... cataloguing. Filing her answer into some internal system she couldn't see and didn't understand.
 
 She'd left that room and gone directly to her chambers and sat in her chair and thought for a very long time about the look in a four-year-old's eyes.
 
-***
+[HR]
 
 Three years of watching. Three years of careful, quiet, systematic observation, conducted with the same discipline she applied to political intelligence and for roughly the same reasons: because information was power, and her grandson was generating information that didn't fit any pattern she recognized.
 
@@ -48,7 +50,7 @@ She kept a list. Not written -- Olenna had learned decades ago that written thin
 
 The questions. Always the questions. He asked the maester about rainfall and harvest yields and the distances between river towns. He asked the servants about food storage and how long grain lasted in different conditions. He asked the gardener -- Harmon, the man with the ruined hands and the encyclopedic knowledge of dirt -- about soil composition, and the gardener, gods bless his simple heart, had answered as if a five-year-old asking about soil acidity was the most natural thing in the world.
 
-The reading. Not just reading, which would have been merely precocious. Directed reading. Strategic reading. Olenna had asked Maester Lomys what the boy was studying, and Lomys had reported -- with the benign satisfaction of a man who believed he was guiding the process -- that young Lord Willas was interested in geography, agriculture, and trade. What Lomys had not reported, because Lomys had not noticed, was the *pattern*. Willas wasn't reading randomly. He was filling gaps. He read about the Reach's geography, then asked about trade routes. He read about trade routes, then asked about grain transport. He read about grain transport, then asked about preservation methods. Each book was a stepping stone to the next question, and each question led to the next book, and the whole chain formed a structure so orderly and purposeful that it made Olenna's skin prickle.
+The reading. Not just reading, which would have been merely precocious. Directed reading. Strategic reading. Olenna had asked Maester Lomys what the boy was studying, and Lomys had reported -- with the benign satisfaction of a man who believed he was guiding the process -- that young Lord Willas was interested in geography, agriculture, and trade. What Lomys had not reported, because Lomys had not noticed, was the [I]pattern[/I]. Willas wasn't reading randomly. He was filling gaps. He read about the Reach's geography, then asked about trade routes. He read about trade routes, then asked about grain transport. He read about grain transport, then asked about preservation methods. Each book was a stepping stone to the next question, and each question led to the next book, and the whole chain formed a structure so orderly and purposeful that it made Olenna's skin prickle.
 
 Five-year-olds did not build knowledge architectures. Five-year-olds built towers out of blocks and knocked them down.
 
@@ -66,7 +68,7 @@ A six-year-old was running experiments and documenting the results.
 
 Olenna had put the notebook back exactly where she'd found it and said nothing to anyone and gone to her rooms and poured herself a glass of wine that she actually drank, all of it, because some realizations required fortification.
 
-***
+[HR]
 
 The question, of course, was what to do about it.
 
@@ -88,7 +90,7 @@ Unless someone is paying attention. Unless someone builds a wall between the ext
 
 Olenna had been building walls for sixty years. She was very, very good at it.
 
-***
+[HR]
 
 She started with money.
 
@@ -106,13 +108,13 @@ She watched to see if Willas found them.
 
 He found them within the week. Every time.
 
-***
+[HR]
 
 Mace was the other problem. Or rather, Mace was Mace, which was a permanent condition that Olenna had long since stopped trying to cure and had instead learned to manage, the way you manage a river -- not by stopping it, because rivers don't stop, but by building banks that channel it where you want it to go.
 
 Mace wanted a knight. Mace had always wanted a knight. When Willas was born, Mace had held the squalling red-faced bundle of infant and said, "He'll be the finest swordsman in the Reach!" -- a prediction so confident and so misguided that Olenna had nearly choked on her wine, which had been the Arbor gold of '261, an excellent vintage that deserved better than to be snorted through the nose.
 
-The sword training was a concession. Necessary. A Tyrell heir who couldn't hold a blade would be a liability, and more importantly, a Tyrell heir who *refused* to hold a blade would make Mace anxious, and an anxious Mace was a Mace who made decisions, and Mace's decisions were reliably terrible. Better to let the boy train, be adequate, and give Mace enough to hold onto while the real work happened elsewhere.
+The sword training was a concession. Necessary. A Tyrell heir who couldn't hold a blade would be a liability, and more importantly, a Tyrell heir who [I]refused[/I] to hold a blade would make Mace anxious, and an anxious Mace was a Mace who made decisions, and Mace's decisions were reliably terrible. Better to let the boy train, be adequate, and give Mace enough to hold onto while the real work happened elsewhere.
 
 Alerie understood this. Not the specifics -- Olenna didn't burden her daughter-in-law with specifics, because Alerie was intelligent but not devious, and the distinction mattered. Alerie understood that Willas was unusual, that his interests should be encouraged, and that Mace's disappointment needed to be managed rather than confronted. This made Alerie an ally, if an unconscious one.
 
@@ -126,7 +128,7 @@ And there would be another baby soon. Alerie was pregnant again -- she hadn't an
 
 The family was growing. Good. Families were resilient in a way that individuals were not. You could break a single branch. A tree was harder.
 
-***
+[HR]
 
 The sun moved across the library window and Olenna watched her grandson turn a page.
 
@@ -146,7 +148,7 @@ Time. That was the thing she needed most and trusted least.
 
 The realm was restless. Aerys grew worse by the year — the whispers had stopped being whispers and started being the kind of open secret that preceded either a quiet retirement to a tower or a very loud change of dynasty. The prince was strange in his own way, bookish and melancholy, riding off to tourneys and crowning the wrong women with winter roses. The Starks nursed their cold grievances. The Baratheons nursed their hot ones. And the Tyrells, as always, sat in the middle of the richest kingdom in Westeros and waited to see which way the wind blew before committing to anything more strenuous than a feast.
 
-If war came — *when* war came, because Olenna could smell it the way old farmers smelled rain — the Reach would be dragged in. Mace would ride off to do something loud and pointless, because that was what Mace did, and Highgarden would be left to the women and the children and the old.
+If war came — [I]when[/I] war came, because Olenna could smell it the way old farmers smelled rain — the Reach would be dragged in. Mace would ride off to do something loud and pointless, because that was what Mace did, and Highgarden would be left to the women and the children and the old.
 
 And to a strange, brilliant boy who was going to need every day she could buy him.
 

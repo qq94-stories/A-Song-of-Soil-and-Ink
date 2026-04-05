@@ -1,8 +1,10 @@
-## Chapter 6 — The Wooden Sword
+[SPOILER=Disclaimer]This is a work of fan fiction based on A Song of Ice and Fire by George R.R. Martin. I do not own any of the original characters, settings, or lore. This story is written for entertainment purposes only and no profit is being made. All original characters and plotlines are my own.[/SPOILER]
+
+[H2]Chapter 6 — The Wooden Sword[/H2]
 
 The wooden sword was heavier than it looked.
 
-This shouldn't have surprised me — everything was heavier than it looked when you weighed roughly forty pounds and your primary form of exercise was turning pages — but there's a difference between knowing a fact intellectually and experiencing it in your wrist and shoulder and the small of your back as a blunt practice weapon tries to drag your arm to the ground.
+This shouldn't have surprised me — everything was heavier than it looked when you weighed roughly 18 kg (40 lbs) and your primary form of exercise was turning pages — but there's a difference between knowing a fact intellectually and experiencing it in your wrist and shoulder and the small of your back as a blunt practice weapon tries to drag your arm to the ground.
 
 "Hold it higher, my lord."
 
@@ -22,7 +24,7 @@ I missed.
 
 "Again," said Ser Vortimer, in the same tone he'd used for the first swing and the fifth and the twelfth. Patient. Professional. Completely unsurprised.
 
-***
+[HR]
 
 This was my father's doing, of course.
 
@@ -54,19 +56,19 @@ Not that I could say this. Not that I would. Mace was my father, and whatever hi
 
 I loved him back. It would have been easier if I didn't.
 
-***
+[HR]
 
 Ser Vortimer was a professional, and professionals notice things.
 
 "You understand the movements," he told me one morning, a month into our sessions. We were taking a water break — his concession to my age, which meant I got one per session instead of the zero he'd have allowed an older student. "Your form is adequate for your age. Better than adequate, for the footwork."
 
-This was true. The footwork came naturally, or at least more naturally than the sword work, because footwork was geometry and physics — angles, balance, weight distribution — and my engineer's mind processed spatial relationships faster than it processed the brutish mechanics of swinging a heavy stick at a target. I understood *why* you stepped this way or that. I could visualize the lines of force, the vectors of attack and defense, the mathematical relationships between distance and reach and timing.
+This was true. The footwork came naturally, or at least more naturally than the sword work, because footwork was geometry and physics — angles, balance, weight distribution — and my engineer's mind processed spatial relationships faster than it processed the brutish mechanics of swinging a heavy stick at a target. I understood [I]why[/I] you stepped this way or that. I could visualize the lines of force, the vectors of attack and defense, the mathematical relationships between distance and reach and timing.
 
 Understanding, however, is not the same as enthusiasm.
 
 "But you train the way a scribe copies a text," Vortimer continued. "Correctly. Carefully." He paused, selecting his next word with the precision of a man who understood that children of great houses required diplomatic handling. "Dutifully."
 
-*Dutifully.* The word landed with the soft thud of an accurate assessment. I trained dutifully. I showed up, went through the motions, maintained adequate form, and counted the minutes until I could leave.
+[I]Dutifully.[/I] The word landed with the soft thud of an accurate assessment. I trained dutifully. I showed up, went through the motions, maintained adequate form, and counted the minutes until I could leave.
 
 "I'm trying," I said. Also true. I was trying — trying to meet the minimum acceptable standard of martial competence for the heir to the Reach, no more and no less. Trying to be good enough that my father wouldn't despair and bad enough that nobody would expect me to pursue knighthood with any real vigor.
 
@@ -80,7 +82,7 @@ But my heart was in the library, and we both knew it.
 
 I would, as it turned out, like the horses. Not because riding triggered some latent martial spirit — it did not — but because horses were a technology, and technologies interested me.
 
-***
+[HR]
 
 The horses of Highgarden were beautiful animals, bred for generations with the kind of careful selection that this world applied to livestock instinctively even without understanding the genetics behind it. Big-boned coursers, palfreys with smooth gaits, destriers bred for war with temperaments that ranged from "tolerant" to "actively homicidal."
 
@@ -96,7 +98,7 @@ My mind was watching Ser Vortimer's other students.
 
 Highgarden maintained a cadre of squires and young household knights, boys and young men between eight and eighteen who trained daily in the yard. I watched them while Pudding ambled in slow circles, and what I saw was an education in medieval military science — its strengths and its considerable limitations.
 
-The swordwork was good. Better than good — the Reach produced fine knights, and Vortimer was a skilled instructor. But the methodology was pure tradition. Techniques passed down master to student, refined over generations, never analyzed, never systematized. Nobody asked *why* a particular guard position worked against a specific attack — they just knew it did, because their teacher's teacher had taught it that way.
+The swordwork was good. Better than good — the Reach produced fine knights, and Vortimer was a skilled instructor. But the methodology was pure tradition. Techniques passed down master to student, refined over generations, never analyzed, never systematized. Nobody asked [I]why[/I] a particular guard position worked against a specific attack — they just knew it did, because their teacher's teacher had taught it that way.
 
 Force. Leverage. Angles.
 
@@ -110,7 +112,7 @@ The thought arrived quietly, the way the important thoughts always did, and lodg
 
 Crossbows.
 
-***
+[HR]
 
 That evening, in my room, notebook on my knees, candle flickering, I sketched.
 
@@ -118,9 +120,9 @@ The crossbow was not a new invention. It existed in Westeros — had existed for
 
 Which was, from an engineering perspective, idiotic.
 
-The Book's section on crossbow design was extensive. Spanning centuries of development, from the simple hand-drawn cross to the complex windlass-and-pulley mechanisms that could store enough energy to punch a bolt through plate armor at two hundred yards. The evolution was a case study in mechanical engineering: cam mechanisms, ratchets, cranequins, goat's-foot levers, each innovation increasing the draw weight that a single person could manage, each pushing the effective power of the weapon further beyond what human muscle alone could provide.
+The Book's section on crossbow design was extensive. Spanning centuries of development, from the simple hand-drawn cross to the complex windlass-and-pulley mechanisms that could store enough energy to punch a bolt through plate armor at 183 m (200 yards). The evolution was a case study in mechanical engineering: cam mechanisms, ratchets, cranequins, goat's-foot levers, each innovation increasing the draw weight that a single person could manage, each pushing the effective power of the weapon further beyond what human muscle alone could provide.
 
-Force multiplication. That was the key. A man couldn't draw a bow with three hundred pounds of force, but a man with a mechanical advantage could cock a crossbow to three hundred pounds of draw weight and release it with a finger. The machine did what the body couldn't, and the result was a projectile weapon that didn't care how strong or skilled or noble you were — it just cared about the mathematics of stored elastic potential energy and ballistic trajectory.
+Force multiplication. That was the key. A man couldn't draw a bow with 136 kg (300 lbs) of force, but a man with a mechanical advantage could cock a crossbow to 136 kg (300 lbs) of draw weight and release it with a finger. The machine did what the body couldn't, and the result was a projectile weapon that didn't care how strong or skilled or noble you were — it just cared about the mathematics of stored elastic potential energy and ballistic trajectory.
 
 I sketched a basic crossbow first. The kind that already existed here, more or less. Wooden stock, steel bow, simple stirrup for the foot so you could draw the string with both hands while standing on it. Nothing revolutionary. Reference point.
 
@@ -132,7 +134,7 @@ A basic trigger mechanism — the revolving nut, a cylinder with a notch that he
 
 A stirrup redesign that allowed the crossbow to be drawn while the user was standing, kneeling, or braced against a wall. Versatility. Flexibility.
 
-<!-- IMAGE: Technical sketches of crossbow improvements, drawn as if by a child's hand but with adult precision. Three designs side by side: (1) A basic medieval crossbow with foot stirrup, labeled 'current'. (2) An improved version with a goat's-foot lever mechanism — an L-shaped metal lever hooked onto the bowstring, showing force multiplication arrows. (3) A detailed cross-section of a revolving nut trigger mechanism — a small cylinder with a notch holding the drawn string, and a long trigger lever underneath that rotates it to release. Ink on parchment, slightly smudged, with measurement annotations in the margins. The style should look like engineering blueprints drawn on medieval parchment. -->
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%205.png[/IMG]
 
 I sketched for an hour, my handwriting forgotten, the drawings increasingly detailed and increasingly dangerous. If anyone found these pages, they wouldn't see a child's scribbles — they'd see technical diagrams for a weapon that could put a bolt through chainmail at ranges that made conventional archery irrelevant.
 
@@ -146,7 +148,7 @@ But not yet. Not for a long time.
 
 The beans first. The soil. The crops. The boring foundations that nobody wrote songs about. The swords and crossbows could wait.
 
-***
+[HR]
 
 My father watched a training session on a bright morning in what I estimated was late spring.
 
@@ -172,9 +174,9 @@ He smiled when he saw me looking. Big, broad, Mace's smile, the one that could f
 
 He left the balcony. I stood in the yard and felt something complicated settle in my chest.
 
-***
+[HR]
 
-The thing about Mace is that he's not a bad father. He's a bad *fit*.
+The thing about Mace is that he's not a bad father. He's a bad [I]fit[/I].
 
 The distinction matters. A bad father would be cruel, indifferent, actively harmful. Mace is none of these things. Mace loves me with the uncomplicated, slightly baffled warmth of a man who produced a child and cannot quite figure out how the child he produced is the child he ended up with. He brings me sweets from the kitchen. He ruffles my hair. He tells me stories about his tourneys, always, polished and embroidered until the story bore roughly the same relationship to reality that a portrait bears to its subject, which is to say: recognizable but better-looking.
 
@@ -198,7 +200,7 @@ Not solving it. Managing it. Some equations don't have solutions. They have equi
 
 It would have to be.
 
-***
+[HR]
 
 That night, I trained in a different way.
 

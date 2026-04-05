@@ -1,4 +1,6 @@
-## Chapter 9 -- The Lord Returns
+[SPOILER=Disclaimer]This is a work of fan fiction based on A Song of Ice and Fire by George R.R. Martin. I do not own any of the original characters, settings, or lore. This story is written for entertainment purposes only and no profit is being made. All original characters and plotlines are my own.[/SPOILER]
+
+[H2]Chapter 9 -- The Lord Returns[/H2]
 
 My father came home with the same subtlety he'd left with, which is to say: none.
 
@@ -32,7 +34,7 @@ He ruffled my hair. I let him. Some performances require no effort at all, becau
 
 He was home. The war was over. And the act that was about to follow -- the feast, the boasts, the magnificent rewriting of history that Mace Tyrell was about to undertake -- would be one of the most educational evenings of my life.
 
-***
+[HR]
 
 The feast began at sundown and showed no signs of ending.
 
@@ -50,7 +52,7 @@ But still. The waste. My carefully preserved barrels of brined vegetables, sitti
 
 I ate my food. I watched my father perform.
 
-***
+[HR]
 
 The performance was magnificent.
 
@@ -62,11 +64,11 @@ Victorious. The word landed with the confidence of a man who believed it absolut
 
 "When I led the might of the Reach to Storm's End, the rebels trembled! When I set my siege, Stannis Baratheon cowered behind his walls! When I cut off his supply lines by land and Lord Redwyne blocked them by sea, the rebel garrison ate rats and boot leather while we feasted under the banners of House Tyrell!"
 
-This part was true, technically. The siege had cut off supply lines. Stannis had been reduced to eating rats. Mace had indeed feasted. The factual accuracy of the individual elements was not in question. It was the assembly -- the *framing*, as The Book's section on rhetoric and persuasion would call it -- that transformed a military stalemate into a personal triumph.
+This part was true, technically. The siege had cut off supply lines. Stannis had been reduced to eating rats. Mace had indeed feasted. The factual accuracy of the individual elements was not in question. It was the assembly -- the [I]framing[/I], as The Book's section on rhetoric and persuasion would call it -- that transformed a military stalemate into a personal triumph.
 
 "Storm's End would have fallen!" Mace declared, and the hall murmured agreement because that was what halls did when lords declared things. "Another month -- two at most -- and the gates would have opened! If the war hadn't ended when it did, I would have taken Storm's End and crushed the last of the rebellion with my own hand!"
 
-The conditional tense. The most useful tense in the language of self-aggrandizement. I *would have*. If only. Given more time. The victory that existed in a hypothetical future where inconvenient reality hadn't intervened was always more glorious than the messy, ambiguous victory that actually happened.
+The conditional tense. The most useful tense in the language of self-aggrandizement. I [I]would have[/I]. If only. Given more time. The victory that existed in a hypothetical future where inconvenient reality hadn't intervened was always more glorious than the messy, ambiguous victory that actually happened.
 
 What actually happened: Rhaegar Targaryen died on the Trident with Robert Baratheon's warhammer in his chest. The Lannisters sacked King's Landing. The Targaryen dynasty ended. And Mace Tyrell, who had been sitting outside Storm's End contributing nothing to the resolution of the war one way or the other, marched home and claimed that his siege had been a cornerstone of the Targaryen war effort.
 
@@ -76,15 +78,15 @@ My father was not stupid.
 
 This was a revision. I'd been operating under the assumption that Mace was well-meaning but dim, a large man with a small intellect, propelled through life by the momentum of wealth and birth. And he was those things, or some of them. But watching him work the hall -- the timing of his pauses, the way he modulated his voice for emphasis, the carefully curated eye contact with specific bannermen at specific moments -- I saw something else.
 
-Mace was a performer. An excellent one. He wasn't constructing his narrative through ignorance; he was constructing it through *instinct*. He knew, on some level beneath conscious analysis, that a lord who returned from war needed a story, and the story needed to be a victory, and the victory needed to feature himself at the center, because a lord without a story was just a man, and a man without a victory was vulnerable.
+Mace was a performer. An excellent one. He wasn't constructing his narrative through ignorance; he was constructing it through [I]instinct[/I]. He knew, on some level beneath conscious analysis, that a lord who returned from war needed a story, and the story needed to be a victory, and the victory needed to feature himself at the center, because a lord without a story was just a man, and a man without a victory was vulnerable.
 
 This was political survival disguised as bragging.
 
 Not sophisticated political survival. Not Olenna-level, gods no. But functional. Workable. The bannermen didn't need to believe every word -- they needed to have a narrative they could repeat, a version of events that made their lord look strong and their own service look meaningful. Mace was providing that narrative with the generosity of a man who had an unlimited supply and was happy to share.
 
-I watched him raise his goblet and toast the Reach, and the hall roared, and I thought: *This is the lever.*
+I watched him raise his goblet and toast the Reach, and the hall roared, and I thought: [I]This is the lever.[/I]
 
-Not Mace's intelligence. Not his martial prowess. Not his political acumen. His *need*. Mace needed to feel important. Needed to be the hero of his own story. And if I could make my own work -- my reforms, my innovations, the slow transformation of the Reach that existed in my notebooks and my plans -- look like extensions of *his* vision, reflections of *his* greatness, achievements that enhanced *his* narrative...
+Not Mace's intelligence. Not his martial prowess. Not his political acumen. His [I]need[/I]. Mace needed to feel important. Needed to be the hero of his own story. And if I could make my own work -- my reforms, my innovations, the slow transformation of the Reach that existed in my notebooks and my plans -- look like extensions of [I]his[/I] vision, reflections of [I]his[/I] greatness, achievements that enhanced [I]his[/I] narrative...
 
 Then he wouldn't just tolerate what I was doing. He'd champion it.
 
@@ -92,7 +94,7 @@ The insight settled into my mind with the satisfying click of a key finding its 
 
 Garlan, under the table, was teaching the dog to beg. Some skills came naturally.
 
-***
+[HR]
 
 The political aftermath was swift and bloodless, because the Tyrells had always been good at bloodless things.
 
@@ -130,11 +132,11 @@ I told her. Not everything -- never everything -- but enough. The brining. The s
 
 She listened. She asked three questions, each sharper than the last. And when I finished, she nodded once, decisively, and said, "Good. Now do more."
 
-Not "well done." Not "how clever." *Do more.* The most Olenna thing she could have said. Approval expressed as a command.
+Not "well done." Not "how clever." [I]Do more.[/I] The most Olenna thing she could have said. Approval expressed as a command.
 
 I would. I was already planning to.
 
-***
+[HR]
 
 The household settled. The war receded into memory. The grain wagons resumed their normal schedules, the stores refilled, the servants stopped counting in whispers, and Highgarden returned to the comfortable abundance that was its natural state, the way a river returns to its banks after a flood.
 
@@ -160,7 +162,7 @@ She blinked. Fair enough.
 
 The Tyrells were now five. Six, counting Grandmother. Seven, counting Father. A family. Growing, sprawling, noisy, and mine.
 
-***
+[HR]
 
 I took stock on a quiet evening, alone in my room with my notebook and a candle and the kind of silence that only exists in a castle after the household has gone to bed and the stones themselves seem to hold their breath.
 
@@ -182,7 +184,7 @@ Detailed notes on Highgarden's economy, its supply chains, its labor patterns, i
 
 Data. The boring, essential, revolutionary stuff.
 
-The third section was new. I'd started it during the war and expanded it in the months since. I called it, in my private shorthand, *The Tree*.
+The third section was new. I'd started it during the war and expanded it in the months since. I called it, in my private shorthand, [I]The Tree[/I].
 
 It was a dependency chart. Not as clean or as formal as the project management diagrams in The Book's engineering sections, but the same basic concept: a map of what needed to happen before other things could happen. A visual representation of the order in which the world needed to change.
 
@@ -196,7 +198,7 @@ And at the top, the crown: the printing press. The thing that would change every
 
 The press was the goal. Everything else was prerequisite.
 
-<!-- IMAGE: 'The Tree' — a hand-drawn dependency chart on parchment, shaped like an actual tree. ROOTS (bottom): labeled items for agricultural improvement — crop rotation, composting, companion planting, food preservation, selective breeding. TRUNK (middle): economic foundation — trade networks, record-keeping, standardized measures, double-entry bookkeeping. BRANCHES (upper): technology — metalworking (with sub-branches: charcoal kilns → better steel → precision tools), woodworking, chemistry, glassmaking. CROWN (top): the printing press, drawn larger and more detailed than everything else, with radiating lines suggesting its transformative impact. Connecting lines show dependencies — you can trace any path from root to crown. Drawn in a child's hand but with an adult's systematic thinking. Ink on parchment, some sections more detailed than others, with margin notes and arrows showing recently added connections. -->
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%207.png[/IMG]
 
 I traced the lines of The Tree with my finger, following the paths from root to crown, and felt something I hadn't expected.
 

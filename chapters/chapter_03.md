@@ -1,8 +1,10 @@
-## Chapter 3 — The Queen of Thorns
+[SPOILER=Disclaimer]This is a work of fan fiction based on A Song of Ice and Fire by George R.R. Martin. I do not own any of the original characters, settings, or lore. This story is written for entertainment purposes only and no profit is being made. All original characters and plotlines are my own.[/SPOILER]
+
+[H2]Chapter 3 — The Queen of Thorns[/H2]
 
 She was smaller than I expected.
 
-That was the first thing — and it shouldn't have surprised me, because everyone was bigger than I expected and I was smaller than everything, so relative size had become meaningless. But Olenna Tyrell, née Redwyne, the Queen of Thorns, Lady of Highgarden in all but title, was genuinely, objectively small. Barely five feet in her shoes, and those shoes had heels. She was thin and sharp and brown, with the complexion of a woman who had spent seventy years in the sun and the posture of someone who considered slouching a moral failing.
+That was the first thing — and it shouldn't have surprised me, because everyone was bigger than I expected and I was smaller than everything, so relative size had become meaningless. But Olenna Tyrell, née Redwyne, the Queen of Thorns, Lady of Highgarden in all but title, was genuinely, objectively small. Barely 1.5 m (5 ft) in her shoes, and those shoes had heels. She was thin and sharp and brown, with the complexion of a woman who had spent seventy years in the sun and the posture of someone who considered slouching a moral failing.
 
 She walked into my room on the eighth day without knocking, without announcement, without any of the fuss that attended Mace's visits or the gentle concern of Alerie's. She simply appeared in the doorway, looked at me the way a jeweler looks at a stone before deciding whether it's worth cutting, and sat down.
 
@@ -20,11 +22,11 @@ I blinked. The assembled nursemaids and servants seemed to collectively hold the
 
 The way a sick child would.
 
-*Slump*, I told myself. *Be small. Be four.*
+[I]Slump[/I], I told myself. [I]Be small. Be four.[/I]
 
 I slumped.
 
-"Lomys tells me the fever changed you," she said. "Made you sharper. More attentive. He used the word *precocious*, which is what maesters say when they mean *strange but not dangerously so*." She picked up an apple from the bowl by my bed, examined it, set it back down. "I wanted to see for myself."
+"Lomys tells me the fever changed you," she said. "Made you sharper. More attentive. He used the word [I]precocious[/I], which is what maesters say when they mean [I]strange but not dangerously so[/I]." She picked up an apple from the bowl by my bed, examined it, set it back down. "I wanted to see for myself."
 
 "See what?"
 
@@ -34,7 +36,7 @@ This was a test. I recognized it the way you recognize a chess opening — the p
 
 I had two options. I could play the child — babble, whine, ask for my mother, give her nothing. Safe, but it would only delay the inevitable. Olenna Tyrell had been reading people since before my parents were born. She would see through a performance eventually, and the longer I maintained it, the worse the discovery would be.
 
-Or I could give her something real. Not everything — not the truth, which was impossible, and not the full extent of what I knew, which was dangerous — but *something*. A glimpse. Enough to satisfy her that whatever had changed in her grandson was not a threat, and might even be useful.
+Or I could give her something real. Not everything — not the truth, which was impossible, and not the full extent of what I knew, which was dangerous — but [I]something[/I]. A glimpse. Enough to satisfy her that whatever had changed in her grandson was not a threat, and might even be useful.
 
 Option two was a gamble. But The Book had a chapter on game theory, and one of its central principles was that in repeated interactions, cooperation outperforms deception. And this was going to be a very long, very repeated interaction.
 
@@ -64,7 +66,7 @@ Olenna Tyrell looked at me the way she might look at a dog that had just asked h
 
 "The dirt," she said carefully, "is tired."
 
-"Mmhm." I nodded. *Be four. Use small words.* "If you plant the same thing every year, it eats all the good stuff in the dirt. You have to switch. Plant something different. Something that puts the good stuff back."
+"Mmhm." I nodded. [I]Be four. Use small words.[/I] "If you plant the same thing every year, it eats all the good stuff in the dirt. You have to switch. Plant something different. Something that puts the good stuff back."
 
 I was describing crop rotation. I was describing it in the vocabulary of a four-year-old, which meant stripping out the nitrogen fixation and the mycorrhizal networks and the soil chemistry and leaving only the bare, intuitive logic. Plants eat things from the dirt. Different plants eat different things. Some plants put things back. If you're smart about the order, the dirt never gets tired.
 
@@ -72,7 +74,7 @@ Olenna was very still. Her hands, which had been fidgeting with her skirts in th
 
 "Who told you this?" she asked.
 
-The question was quiet. Deceptively so. This was the crux — the moment that would determine whether she filed me under *interesting* or *concerning*.
+The question was quiet. Deceptively so. This was the crux — the moment that would determine whether she filed me under [I]interesting[/I] or [I]concerning[/I].
 
 "No one." I frowned, because a child would frown at a question like that. "I just... see it. Looking at the fields. The tired ones are a different color. And I thought about it and it makes sense, doesn't it? If you eat the same food every day you get sick. So why wouldn't the plants?"
 
@@ -86,11 +88,11 @@ My mother, hovering near the door, hesitated. "My lady—"
 
 Alerie went. The maids went. The door closed. And then it was just me and Olenna Tyrell in a room full of candlelight and the smell of sickness, and her eyes were on me like a hawk watching a field mouse and deciding whether to drop.
 
-"Now then." She leaned forward. The chair creaked. "Let's try that again without the audience. What else do you *see*, Willas?"
+"Now then." She leaned forward. The chair creaked. "Let's try that again without the audience. What else do you [I]see[/I], Willas?"
 
 I swallowed. My mouth was dry. The gamble was in play and I couldn't take it back, so the only path was forward. Carefully.
 
-"The water," I said. "The water they bring me from the well. It tastes like iron. That means there's metal in it. Metal in water isn't always bad, but if the well is near the..." I searched for a child-appropriate word for *cesspit*. "Near where people put their waste, then the water might be making people sick."
+"The water," I said. "The water they bring me from the well. It tastes like iron. That means there's metal in it. Metal in water isn't always bad, but if the well is near the..." I searched for a child-appropriate word for [I]cesspit[/I]. "Near where people put their waste, then the water might be making people sick."
 
 Olenna's expression didn't change. That was, I was learning, more frightening than any change would have been. Her face in neutral was a fortress.
 
@@ -104,7 +106,7 @@ Olenna sat back. She was quiet for a long time — long enough that I could hear
 
 I said nothing. There was nothing to say. She was right.
 
-"The fever." She tasted the word like it might be poisoned. "The fever *changed* you."
+"The fever." She tasted the word like it might be poisoned. "The fever [I]changed[/I] you."
 
 "Yes."
 
@@ -116,9 +118,9 @@ The question hung in the air between us. It was, I realized, an honest question 
 
 "You're four."
 
-"I know." I let some frustration show — real frustration, not performed. "I know I'm four. I know I shouldn't... I know this isn't normal. I don't understand it either. But the things I know are *right*. About the fields, about the water. You could check."
+"I know." I let some frustration show — real frustration, not performed. "I know I'm four. I know I shouldn't... I know this isn't normal. I don't understand it either. But the things I know are [I]right[/I]. About the fields, about the water. You could check."
 
-"Oh, I intend to." She drummed her fingers on the arm of the chair. Once, twice, three times. Then she stopped. "Tell me something else. Something you *know* that you shouldn't."
+"Oh, I intend to." She drummed her fingers on the arm of the chair. Once, twice, three times. Then she stopped. "Tell me something else. Something you [I]know[/I] that you shouldn't."
 
 I thought about it. Not about what to say — I had thousands of pages to draw from — but about what would serve the purpose. What would be useful enough to justify the risk, impressive enough to anchor her interest, and simple enough to verify.
 
@@ -152,7 +154,7 @@ She stood. She was so small that standing barely changed her eye level relative 
 
 She turned to leave. At the door, she paused.
 
-"The fields on the left — the ones you can see from the window. Those are the Ashford tenancy. They *have* been planting the same wheat for three years. I told Mace to rotate them to barley and he said—" She waved a hand dismissively. "Something about tradition. He always says something about tradition when he means he doesn't want to think about it."
+"The fields on the left — the ones you can see from the window. Those are the Ashford tenancy. They [I]have[/I] been planting the same wheat for three years. I told Mace to rotate them to barley and he said—" She waved a hand dismissively. "Something about tradition. He always says something about tradition when he means he doesn't want to think about it."
 
 She looked back at me over her shoulder. Her eyes were bright, sharp, and alive with something that I would learn to recognize as the most dangerous thing about Olenna Tyrell.
 
@@ -160,11 +162,11 @@ Curiosity.
 
 "We'll talk again tomorrow," she said. "About dirt."
 
-***
+[HR]
 
 She came back the next day. And the day after that.
 
-The visits followed a pattern that I suspected was deliberate — Olenna Tyrell did nothing by accident. She came in the afternoon, when Alerie was resting and Mace was occupied with whatever it was that occupied Mace. She brought food — little cakes, dried fruit, once a honeycomb still dripping and wrapped in cloth — and she sat in the chair by my bed and she *talked*.
+The visits followed a pattern that I suspected was deliberate — Olenna Tyrell did nothing by accident. She came in the afternoon, when Alerie was resting and Mace was occupied with whatever it was that occupied Mace. She brought food — little cakes, dried fruit, once a honeycomb still dripping and wrapped in cloth — and she sat in the chair by my bed and she [I]talked[/I].
 
 Or rather, she made me talk. And she listened with the focus of a woman who had spent a lifetime surrounded by fools and had finally found something worth paying attention to.
 
@@ -172,7 +174,7 @@ On the second visit, she brought a question.
 
 "I asked Maester Lomys about the willow bark. Told him a friend in Oldtown had suggested the longer boiling method. He was skeptical but tried it." She unwrapped a cake and handed me half. "My hip has been aching less since the new preparation. So. What else?"
 
-I told her about composting. In small words, with small examples, the way a child would describe something he'd figured out by watching. You take the scraps from the kitchen, and the manure from the stables, and you pile them up and let them rot, and what you get is better than any soil you can dig up from a field. She listened, asked three sharp questions — *How long? How much? What can't you put in?* — and filed it away behind those dark, watchful eyes.
+I told her about composting. In small words, with small examples, the way a child would describe something he'd figured out by watching. You take the scraps from the kitchen, and the manure from the stables, and you pile them up and let them rot, and what you get is better than any soil you can dig up from a field. She listened, asked three sharp questions — [I]How long? How much? What can't you put in?[/I] — and filed it away behind those dark, watchful eyes.
 
 On the third visit, she brought a map.
 
@@ -180,11 +182,11 @@ It was a simple one — the lands around Highgarden, the major holdings, the riv
 
 I stared at the map. It was hand-drawn, beautiful in the way that pre-cartographic maps are beautiful, with little illustrations of trees and hills and a completely cavalier attitude toward scale. But the information was there — the waterways, the elevation changes, the relationship between the settlements and the agricultural land.
 
-"Here," I said, pointing. My finger was too fat and imprecise to be exact, but I got close enough. "This bend in the river. The water slows down here, which means silt — um, dirt from upstream — collects on the inside of the bend. That land will be the richest for growing. But here—" I moved my finger. "The river cuts the bank every year, yes? Because the water is fastest on the outside of the curve. If you plant there, you'll lose land. But if you put in stakes — wooden posts — along the bank with woven branches between them, the river pushes the dirt *into* the stakes instead of carrying it away."
+"Here," I said, pointing. My finger was too fat and imprecise to be exact, but I got close enough. "This bend in the river. The water slows down here, which means silt — um, dirt from upstream — collects on the inside of the bend. That land will be the richest for growing. But here—" I moved my finger. "The river cuts the bank every year, yes? Because the water is fastest on the outside of the curve. If you plant there, you'll lose land. But if you put in stakes — wooden posts — along the bank with woven branches between them, the river pushes the dirt [I]into[/I] the stakes instead of carrying it away."
 
 I was describing riparian management. Fascines and revetments. The Book had diagrams. I could see them perfectly, clear as the day they were... drawn? Printed? I didn't know the provenance. I only knew the content.
 
-<!-- IMAGE: A hand-drawn map of Highgarden and its surrounding lands in medieval cartographic style, with a detailed inset showing river bend management. The inset shows a cross-section of a meandering river: on the inside of the bend, silt deposits creating fertile land; on the outside, the eroding bank reinforced with fascines — rows of wooden stakes driven into the bank with woven willow branches between them, trapping sediment. Arrows show water flow direction and silt movement. The main map has charming medieval flourishes (tiny trees, illustrated hills) but the inset is technically precise. Ink and light watercolor on parchment. -->
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%202.png[/IMG]
 
 Olenna looked at the map. She looked at me. She looked at the map again.
 
@@ -204,15 +206,15 @@ She folded the map carefully and tucked it into her sleeve.
 
 "If you could do one thing — one single thing, starting tomorrow — to make this house richer, stronger, better fed... what would it be?"
 
-It was a test. But not the kind I'd been bracing for — not a test of my knowledge, but a test of my judgment. She wasn't asking what I *knew*. She was asking what I'd *choose*. And the choice would tell her more about what I was than any fact I could recite.
+It was a test. But not the kind I'd been bracing for — not a test of my knowledge, but a test of my judgment. She wasn't asking what I [I]knew[/I]. She was asking what I'd [I]choose[/I]. And the choice would tell her more about what I was than any fact I could recite.
 
-I thought about it. Really thought, turning the question over the way The Book had taught me to turn over problems — not looking for the first answer, but for the *right* one. The one that balanced impact against feasibility, benefit against risk.
+I thought about it. Really thought, turning the question over the way The Book had taught me to turn over problems — not looking for the first answer, but for the [I]right[/I] one. The one that balanced impact against feasibility, benefit against risk.
 
 "Clean water," I said.
 
 Olenna tilted her head. Waiting.
 
-"Everything starts with water. If the water is clean, people get sick less. If people get sick less, they work more. If they work more, the fields produce more. If the fields produce more, the house is richer." I ticked the points off on my fingers — an absurd gesture with fingers that size, but it helped me think. "And clean water is *easy*. You can filter it through sand and gravel. I can draw — well, I can't draw yet, my hands don't work right. But I can describe what to build. It's not expensive. It just needs someone to decide it matters."
+"Everything starts with water. If the water is clean, people get sick less. If people get sick less, they work more. If they work more, the fields produce more. If the fields produce more, the house is richer." I ticked the points off on my fingers — an absurd gesture with fingers that size, but it helped me think. "And clean water is [I]easy[/I]. You can filter it through sand and gravel. I can draw — well, I can't draw yet, my hands don't work right. But I can describe what to build. It's not expensive. It just needs someone to decide it matters."
 
 She was quiet. The afternoon light was slanting through the window, catching the dust motes, turning the room gold. She sat in the warmth of it, this small, fierce woman, and I could see her thinking. Not about sand filters or water purification — about me. About what I represented. About the uses and dangers of a grandchild who could see things no one else could see.
 
@@ -240,7 +242,7 @@ She stood. Smoothed her skirts.
 
 She was at the door. She turned, and the look she gave me was the most honest expression I'd seen from her — stripped of performance, of acid, of the armor she wore like other women wore jewelry. Underneath it all, Olenna Tyrell was a woman who loved her family with a ferocity that frightened her, and she had just spent three days watching her grandson demonstrate that the world was stranger and more wonderful than she had allowed herself to believe.
 
-"Whatever you are," she said quietly, "whatever the fever did or didn't do — you are *mine*. Do you understand? You are mine and I will suffer no one to harm you. Not even yourself."
+"Whatever you are," she said quietly, "whatever the fever did or didn't do — you are [I]mine[/I]. Do you understand? You are mine and I will suffer no one to harm you. Not even yourself."
 
 My throat tightened. The borrowed heart in my borrowed chest did something complicated and painful, and for a moment I wasn't a displaced consciousness playing at childhood, I was just a boy whose grandmother had promised to keep him safe.
 

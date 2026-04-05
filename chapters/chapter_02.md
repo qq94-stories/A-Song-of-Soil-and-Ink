@@ -1,26 +1,28 @@
-## Chapter 2 — Small Hands
+[SPOILER=Disclaimer]This is a work of fan fiction based on A Song of Ice and Fire by George R.R. Martin. I do not own any of the original characters, settings, or lore. This story is written for entertainment purposes only and no profit is being made. All original characters and plotlines are my own.[/SPOILER]
+
+[H2]Chapter 2 — Small Hands[/H2]
 
 The indignity of being carried to the privy by a servant was, I decided, going to be the thing that broke me.
 
-Not the stone walls. Not the candles. Not the bone-deep wrongness of inhabiting a body whose proportions belonged to a creature approximately the size of a border collie. Not even the smell — and there was *so much smell*, layers of it, an olfactory archaeology of rushes and woodsmoke and bodies and food and animals and the faint, ever-present tang of human waste that said more about medieval sanitation than any chapter of The Book.
+Not the stone walls. Not the candles. Not the bone-deep wrongness of inhabiting a body whose proportions belonged to a creature approximately the size of a border collie. Not even the smell — and there was [I]so much smell[/I], layers of it, an olfactory archaeology of rushes and woodsmoke and bodies and food and animals and the faint, ever-present tang of human waste that said more about medieval sanitation than any chapter of The Book.
 
 No. It was the privy. Specifically, it was being hoisted onto it by a woman named Dalla who had the arms of a longshoreman and the casual efficiency of someone who had been managing small children's bodily functions for decades.
 
 "There you are, little lord."
 
-*There I was.*
+[I]There I was.[/I]
 
-I gripped the edges of the seat — my fingers couldn't reach all the way around — and contemplated the series of choices, cosmic or otherwise, that had led to this moment. Whatever afterlife I'd been expecting, this wasn't it. Then again, I couldn't remember what I'd been expecting, so perhaps this was exactly right. A pre-industrial toilet and a servant who called me *little lord*. The universe has a sense of humor. Noted.
+I gripped the edges of the seat — my fingers couldn't reach all the way around — and contemplated the series of choices, cosmic or otherwise, that had led to this moment. Whatever afterlife I'd been expecting, this wasn't it. Then again, I couldn't remember what I'd been expecting, so perhaps this was exactly right. A pre-industrial toilet and a servant who called me [I]little lord[/I]. The universe has a sense of humor. Noted.
 
-It was my third day of proper consciousness. The fever had left me weak as water, and The Book's entry on post-febrile recovery in young children was not encouraging. *Expect fatigue, appetite loss, and muscle weakness lasting one to three weeks. Ensure adequate hydration and caloric intake. Watch for secondary infection.* Helpful, that. Less helpful when you were the patient and your primary medical concern was whether you could hold a cup without spilling it.
+It was my third day of proper consciousness. The fever had left me weak as water, and The Book's entry on post-febrile recovery in young children was not encouraging. [I]Expect fatigue, appetite loss, and muscle weakness lasting one to three weeks. Ensure adequate hydration and caloric intake. Watch for secondary infection.[/I] Helpful, that. Less helpful when you were the patient and your primary medical concern was whether you could hold a cup without spilling it.
 
 I could not, as it turned out, hold a cup without spilling it.
 
-My hands were the problem. Not just because they were small — everything was small, I was getting used to that, or at least I was getting used to the constant background buzz of wrongness that came with being three feet tall — but because they were *imprecise*. The fine motor control I instinctively expected wasn't there. I'd reach for something and overshoot, or undershoot, or close my fingers too early, or not enough. The disconnect between intention and execution was maddening.
+My hands were the problem. Not just because they were small — everything was small, I was getting used to that, or at least I was getting used to the constant background buzz of wrongness that came with being 90 cm (3 ft) tall — but because they were [I]imprecise[/I]. The fine motor control I instinctively expected wasn't there. I'd reach for something and overshoot, or undershoot, or close my fingers too early, or not enough. The disconnect between intention and execution was maddening.
 
 On the morning of that third day, I asked Alerie for a quill.
 
-She was delighted. Her son — *her* Willas, the original — had been starting to show interest in letters before the fever. The maester had been working with him. So a quill and ink and a scrap of parchment appeared, and Alerie settled me at a table that came up to my chin and watched with bright, expectant eyes.
+She was delighted. Her son — [I]her[/I] Willas, the original — had been starting to show interest in letters before the fever. The maester had been working with him. So a quill and ink and a scrap of parchment appeared, and Alerie settled me at a table that came up to my chin and watched with bright, expectant eyes.
 
 I picked up the quill. It was enormous in my hand. I positioned it the way I knew it should be held — three-point grip, nib angled at forty-five degrees — and touched it to the parchment.
 
@@ -34,17 +36,17 @@ She had no idea.
 
 I spent the rest of that morning practicing. Not letters — I didn't dare write anything legible, not yet — but lines. Straight lines. Circles. The most basic exercises in fine motor control, disguised as a child's aimless scribbling. By the end of it my hand was aching and I'd produced nothing that would alarm anyone, which was exactly the point.
 
-The thing about being a grown mind in a child's body is that everyone expects you to be bad at things. The expectations are so low that you could trip over them. No one watches a four-year-old scribble and thinks *he's systematically training his hand-eye coordination using progressive difficulty exercises*. They think *oh, how sweet, he's drawing*.
+The thing about being a grown mind in a child's body is that everyone expects you to be bad at things. The expectations are so low that you could trip over them. No one watches a four-year-old scribble and thinks [I]he's systematically training his hand-eye coordination using progressive difficulty exercises[/I]. They think [I]oh, how sweet, he's drawing[/I].
 
 I intended to exploit this for all it was worth.
 
-***
+[HR]
 
 Mace Tyrell, Lord of Highgarden, Warden of the South, Defender of the Marches, and High Marshal of the Reach, was a very large man.
 
 That was the first thing. He filled doorways. He filled rooms. He filled the world with his voice and his presence and his relentless, booming good cheer. When he came to see me on the fourth day, he entered the sickroom like a siege engine entering a garden party — with tremendous energy and absolutely no sense of proportion.
 
-"The boy! There's my boy!" He crossed the room in three strides, scooped me off the bed, and held me at arm's length like a man inspecting a prize melon. "Color's coming back. Good. Good! Maester said it was a near thing, but I told him — I said, *Lomys, that boy's a Tyrell*. We don't die in bed. Isn't that right?"
+"The boy! There's my boy!" He crossed the room in three strides, scooped me off the bed, and held me at arm's length like a man inspecting a prize melon. "Color's coming back. Good. Good! Maester said it was a near thing, but I told him — I said, [I]Lomys, that boy's a Tyrell[/I]. We don't die in bed. Isn't that right?"
 
 He shook me gently, the way you'd shake a bottle to see if there was anything left in it. I blinked at him.
 
@@ -70,7 +72,7 @@ They were good people. Not brilliant, not scheming, not playing the game of thro
 
 I could do a lot worse for parents.
 
-***
+[HR]
 
 Baby Garlan was a problem I hadn't anticipated.
 
@@ -104,11 +106,11 @@ This was acceptable. He leaned against me more heavily and began chewing on the 
 
 Birds. Wind. The distant clang of a hammer on metal — a smithy somewhere. Voices, too far away to parse. The creak of a cart. Dogs barking. And underneath it all, a quality of silence that I was beginning to understand would take a long time to get used to. The silence of a world without engines.
 
-***
+[HR]
 
 The maester — Lomys, his name was Lomys — came to examine me every morning.
 
-He was a careful man. Thorough in the way of someone trained to a system, every step performed in order, every observation noted. He checked my eyes, my throat, my pulse. He had me track his finger, squeeze his hand, touch my nose. He asked me questions — simple things, a child's questions. *What is your name? How old are you? What is your mother's name?*
+He was a careful man. Thorough in the way of someone trained to a system, every step performed in order, every observation noted. He checked my eyes, my throat, my pulse. He had me track his finger, squeeze his hand, touch my nose. He asked me questions — simple things, a child's questions. [I]What is your name? How old are you? What is your mother's name?[/I]
 
 I answered correctly, because the answers lived in the body's memory and surfaced without effort. Willas. Four. Alerie. The easy ones.
 
@@ -120,23 +122,23 @@ Then he asked me what color the banner was — there was a Tyrell banner hanging
 
 "It can be. Fever sometimes affects the brain. Usually for the worse. Occasionally..." He trailed off. I could practically hear him selecting his words. "Some children, after a severe illness, show a change in temperament. More serious. More attentive. As if the fever burned away some childish fog. It's documented, though rare."
 
-I exhaled quietly. This was the story, then. The explanation that would cover me, at least for a while. The fever changed him. Made him sharper, more focused, more *present*. Not a possession, not a changeling, not anything that would get me thrown into a sept for exorcism. Just a medical curiosity. A child who woke up from a near-death experience slightly different.
+I exhaled quietly. This was the story, then. The explanation that would cover me, at least for a while. The fever changed him. Made him sharper, more focused, more [I]present[/I]. Not a possession, not a changeling, not anything that would get me thrown into a sept for exorcism. Just a medical curiosity. A child who woke up from a near-death experience slightly different.
 
 I could work with that too.
 
 The key was calibration. Too sudden a change and people would notice — really notice, the kind of noticing that led to questions I couldn't answer. Too slow and I'd waste years pretending to be something I wasn't, years I might not have if the world was as dangerous as my instincts suggested.
 
-So I aimed for *precocious*. Not genius, not savant, not terrifyingly advanced — just precocious. A bright child made brighter by his brush with death. Interested in books, in how things worked, in asking questions. Children asked questions constantly anyway; mine would just be slightly better aimed.
+So I aimed for [I]precocious[/I]. Not genius, not savant, not terrifyingly advanced — just precocious. A bright child made brighter by his brush with death. Interested in books, in how things worked, in asking questions. Children asked questions constantly anyway; mine would just be slightly better aimed.
 
-I began with small things. Asking Lomys what was in the poultice he put on my chest. Asking Alerie why the water from the well tasted different from the water from the rain barrel. Asking Dalla why the bread was dark in the morning and white at supper. Kid questions, but with just enough edge that the adults would file them under *clever* rather than *impossible*.
+I began with small things. Asking Lomys what was in the poultice he put on my chest. Asking Alerie why the water from the well tasted different from the water from the rain barrel. Asking Dalla why the bread was dark in the morning and white at supper. Kid questions, but with just enough edge that the adults would file them under [I]clever[/I] rather than [I]impossible[/I].
 
 It was, I reflected, the most exhausting performance of my life. Both lives. However you counted.
 
-My hands were getting better, though. Not fast enough — I practiced every moment I was alone, gripping things, releasing things, training the neural pathways that a four-year-old's brain hadn't finished building. The Book had a section on childhood motor development that I found both useful and deeply depressing. *Fine motor control adequate for basic writing typically develops between ages five and seven.* I had at least a year before I could hold a quill properly, and that was with aggressive practice.
+My hands were getting better, though. Not fast enough — I practiced every moment I was alone, gripping things, releasing things, training the neural pathways that a four-year-old's brain hadn't finished building. The Book had a section on childhood motor development that I found both useful and deeply depressing. [I]Fine motor control adequate for basic writing typically develops between ages five and seven.[/I] I had at least a year before I could hold a quill properly, and that was with aggressive practice.
 
 A year.
 
-I looked at my hands — small, pudgy, useless, *mine* — and I thought about everything I knew and everything I couldn't do and the vast, impassable distance between the two.
+I looked at my hands — small, pudgy, useless, [I]mine[/I] — and I thought about everything I knew and everything I couldn't do and the vast, impassable distance between the two.
 
 Then I picked up a wooden block from the toy chest by my bed, and I practiced gripping it. Again. And again. And again.
 

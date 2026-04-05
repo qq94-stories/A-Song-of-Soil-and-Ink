@@ -1,8 +1,10 @@
-## Chapter 8 -- War Comes Home
+[SPOILER=Disclaimer]This is a work of fan fiction based on A Song of Ice and Fire by George R.R. Martin. I do not own any of the original characters, settings, or lore. This story is written for entertainment purposes only and no profit is being made. All original characters and plotlines are my own.[/SPOILER]
+
+[H2]Chapter 8 -- War Comes Home[/H2]
 
 The first thing war took from Highgarden was the noise.
 
-Not the sound of battle -- we were hundreds of miles from that, safe behind the Reach's rolling green distance and the comfortable fiction that wars happened to other people in other places. No, the noise that disappeared was the ordinary kind. The daily clamor of a great household running at full capacity: stable boys shouting, smiths hammering, the constant rumble of carts on cobblestones, dogs barking at nothing because dogs considered nothing a serious threat that required immediate vocal attention.
+Not the sound of battle -- we were hundreds of kilometres from that, safe behind the Reach's rolling green distance and the comfortable fiction that wars happened to other people in other places. No, the noise that disappeared was the ordinary kind. The daily clamor of a great household running at full capacity: stable boys shouting, smiths hammering, the constant rumble of carts on cobblestones, dogs barking at nothing because dogs considered nothing a serious threat that required immediate vocal attention.
 
 When the army marched, it took all of that with it. And what was left behind was a silence that pretended to be peace and wasn't.
 
@@ -10,7 +12,7 @@ My father rode to war on a bright morning in the second month of 282 AC. I was s
 
 It was, I had to admit, impressive.
 
-Three hundred knights in full armor, their plate and mail catching the morning sun until the whole column flashed and glittered like some enormous, lethal parade float. Behind them, twice that number of mounted men-at-arms. Behind *them*, the infantry -- pikemen, crossbowmen, and the general mass of levied men who'd been pulled from fields and workshops and taverns to go stand outside a castle and wait for something to happen. Wagons beyond counting, loaded with food and fodder and the extraordinary quantity of *stuff* that an army required to exist. Banners everywhere. The green hand of House Tyrell. The golden rose. Pennants and streamers and standards fluttering in a spring breeze that smelled like flowers and horse dung in roughly equal measure.
+Three hundred knights in full armor, their plate and mail catching the morning sun until the whole column flashed and glittered like some enormous, lethal parade float. Behind them, twice that number of mounted men-at-arms. Behind [I]them[/I], the infantry -- pikemen, crossbowmen, and the general mass of levied men who'd been pulled from fields and workshops and taverns to go stand outside a castle and wait for something to happen. Wagons beyond counting, loaded with food and fodder and the extraordinary quantity of [I]stuff[/I] that an army required to exist. Banners everywhere. The green hand of House Tyrell. The golden rose. Pennants and streamers and standards fluttering in a spring breeze that smelled like flowers and horse dung in roughly equal measure.
 
 The Reach was going to war for the Targaryens, and I'd been piecing together why from fragments overheard at dinner tables and in hallways where adults forgot that children had ears.
 
@@ -38,7 +40,7 @@ My mother watched until the last wagon disappeared. Then she turned, and her fac
 
 There was. More than any of us guessed.
 
-***
+[HR]
 
 The first month was almost normal.
 
@@ -52,7 +54,7 @@ The Hightower blood showed. Alerie's family had run Oldtown for thousands of yea
 
 The second month was when the squeeze began.
 
-***
+[HR]
 
 It started with the grain.
 
@@ -72,7 +74,7 @@ Nobody said anything official. Nobody would. The Reach was at war, and the Reach
 
 The irony sat in my chest like a stone.
 
-***
+[HR]
 
 I found the kitchen steward on a grey afternoon in what I guessed was the fourth month of the war.
 
@@ -84,7 +86,7 @@ I found him in the pantry, counting. Actually counting -- lips moving, fingers p
 
 He startled. Turned. Recalibrated downward to find me, the way adults always did, because I existed at roughly the altitude of a moderately ambitious shrub.
 
-"My lord Willas." The *my lord* was automatic, perfunctory. He was distracted. The counting was more important than the courtesies. "You shouldn't be in the stores, my lord."
+"My lord Willas." The [I]my lord[/I] was automatic, perfunctory. He was distracted. The counting was more important than the courtesies. "You shouldn't be in the stores, my lord."
 
 "I wanted to ask you something."
 
@@ -108,7 +110,7 @@ Gormon's lips compressed. "Your lord father's army needs feeding, my lord. The R
 
 He would not. Even without knowing the specific course of the war, I could have told Gormon that besieging a well-fortified castle was one of the slowest military operations available and that "quickly" was not a word that belonged in the same sentence as "siege." But I was seven, and seven-year-olds didn't critique military strategy.
 
-"I read something," I said instead. The magic words. The safe words. *I read something in a book.* "About keeping food longer. Salt-curing. For meat."
+"I read something," I said instead. The magic words. The safe words. [I]I read something in a book.[/I] "About keeping food longer. Salt-curing. For meat."
 
 Gormon looked at me with the same expression Harmon had given me three years ago in the garden. The expression of an expert being told something by a child and trying to decide whether to be amused, annoyed, or politely interested.
 
@@ -122,7 +124,7 @@ He blinked. "Twice."
 
 Lacto-fermentation and vinegar pickling. The Book had an entire section on preservation techniques that predated refrigeration, methods that humanity had used for thousands of years to store food through lean seasons. Sauerkraut, kimchi, pickled vegetables, salt-cured meats, dried fruits, smoked fish -- the full arsenal of pre-industrial food preservation, most of which this world already practiced in crude, inefficient forms that wasted half the potential shelf life through poor technique.
 
-<!-- IMAGE: A page from The Book showing food preservation methods, illustrated like a practical manual. Three columns: LEFT — salt-curing technique showing meat packed in alternating layers of salt and spices, with a cross-section of a wooden barrel. CENTER — brine pickling showing vegetables submerged in a sealed ceramic crock, with the brine recipe and a detail of the wax seal. RIGHT — smoking, showing a small cold-smoke chamber with fish hung on hooks and a smoldering fire below, arrows indicating airflow. Each method has a small shelf-life comparison chart (days/weeks/months). Hand-illustrated in ink and muted watercolor, practical and instructional in tone. -->
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%206.png[/IMG]
 
 I wasn't introducing anything new. I was refining what already existed. The distinction mattered.
 
@@ -146,9 +148,9 @@ Gormon studied me for a long moment. Then he shrugged, with the particular resig
 
 I practically ran from the pantry, because seven-year-olds run when they're excited, and I was excited, genuinely excited, the thrill of another experiment about to begin mixing with the grim satisfaction of doing something, however small, about a problem I could see and most people were pretending didn't exist.
 
-***
+[HR]
 
-The barrel worked. The meat worked. They worked because chemistry doesn't care about wars or politics or the fact that the person suggesting the technique was three and a half feet tall.
+The barrel worked. The meat worked. They worked because chemistry doesn't care about wars or politics or the fact that the person suggesting the technique was 107 cm (3.5 ft) tall.
 
 Gormon tested the brined vegetables after six weeks and found them crisp, tangy, and perfectly preserved. The salt-cured pork, packed in the layered method I'd described -- thicker salt application, with crushed juniper berries and a small amount of honey that acted as a secondary preservative through osmotic action, though I described it to Gormon as "it keeps the meat sweeter" -- lasted markedly longer than his usual preparations without developing the off-taste that signaled spoilage.
 
@@ -156,7 +158,7 @@ He didn't praise me. Gormon wasn't the praising type. But he made a second barre
 
 Small victory. Tiny, in the grand scheme of a war that was reshaping the continent. But it was mine, and it was real, and every barrel of preserved food was a barrel that wouldn't rot in the stores while the army ate its way through the Reach's surplus at Storm's End.
 
-***
+[HR]
 
 The war ground on. Summer turned to autumn turned to a winter that didn't come -- the seasons in this world followed their own mad logic, years-long summers and winters that lasted a generation, and we were deep in summer still, which was a mercy for the harvest if not for the men fighting in the heat.
 
@@ -184,7 +186,7 @@ I knew this in theory. Now I was living it, watching the slow erosion of Highgar
 
 Not famine. Never famine -- the Reach was too rich for that. But the thinning continued. The belt tightened another notch. And the war went on.
 
-***
+[HR]
 
 Wounded men started appearing at Highgarden in the sixth month.
 
@@ -208,13 +210,13 @@ The laundress gave me a look that combined indulgence with scepticism in roughly
 
 But it was something. A pebble tossed into a pond, barely visible. The ripples wouldn't matter for years. But the pebble was there.
 
-***
+[HR]
 
 Winter held off. The war didn't.
 
 I turned eight somewhere in the middle of it, though the celebration was muted -- a small gathering, my mother and grandmother and Garlan and the household, cakes from a kitchen working with slightly less sugar than the year before. Garlan gave me a wooden horse he'd carved himself, with five legs and no discernible head. I loved it. I still have it.
 
-Grandmother gave me a book. Naturally. This one was a Qohorik treatise on metalworking that must have cost a small fortune and that she presented with a look that said, plain as speech: *I know what you are. I don't know how. I don't care. Here.*
+Grandmother gave me a book. Naturally. This one was a Qohorik treatise on metalworking that must have cost a small fortune and that she presented with a look that said, plain as speech: [I]I know what you are. I don't know how. I don't care. Here.[/I]
 
 I thanked her. Our eyes met over the table, and something passed between us that I couldn't name and didn't try to. Understanding, maybe. Or alliance. Or the quiet, fierce, unsentimental version of love that Olenna Tyrell specialized in, the kind that expressed itself not in embraces or endearments but in resources, protection, and the strategic application of wealth in service of someone else's potential.
 
