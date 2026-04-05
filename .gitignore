@@ -2,6 +2,7 @@
 reverence material/
 
 # Planning docs (private - not for public repo)
+CLAUDE.md
 premise.txt
 chapter_outline.txt
 informations/*
