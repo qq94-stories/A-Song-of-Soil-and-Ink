@@ -42,8 +42,6 @@ He'd nodded. Not disappointed. Not surprised. Just... cataloguing. Filing her an
 
 She'd left that room and gone directly to her chambers and sat in her chair and thought for a very long time about the look in a four-year-old's eyes.
 
-[HR]
-
 Three years of watching. Three years of careful, quiet, systematic observation, conducted with the same discipline she applied to political intelligence and for roughly the same reasons: because information was power, and her grandson was generating information that didn't fit any pattern she recognized.
 
 She kept a list. Not written -- Olenna had learned decades ago that written things could be found, and found things could be used against you. Mental. Organized. Comprehensive.
@@ -68,8 +66,6 @@ A six-year-old was running experiments and documenting the results.
 
 Olenna had put the notebook back exactly where she'd found it and said nothing to anyone and gone to her rooms and poured herself a glass of wine that she actually drank, all of it, because some realizations required fortification.
 
-[HR]
-
 The question, of course, was what to do about it.
 
 Olenna had outlived two kings, three political purges, and a husband whose primary contributions to House Tyrell had been a reasonable chin and the good sense to die before he could do anything genuinely stupid. She had navigated the courts of Aegon V and Jaehaerys II and now the increasingly erratic regime of Aerys, the man they were starting to call Mad, though never loudly and never where the wrong ears might hear. She had married her way into a family that had been stewards for thousands of years before a dead dragon-lord handed them a kingdom they hadn't earned, and she had spent forty years making that family worthy of the name she'd given them.
@@ -90,8 +86,6 @@ Unless someone is paying attention. Unless someone builds a wall between the ext
 
 Olenna had been building walls for sixty years. She was very, very good at it.
 
-[HR]
-
 She started with money.
 
 Not a lot. Not enough to attract attention or require explanation. Just... redirections. Quiet ones. A word to the castle steward that the young lord's educational expenses should be charged to her personal accounts rather than the household budget, which meant they wouldn't appear in the records that Mace occasionally pretended to review. New quills, of a quality that a six-year-old shouldn't need but that Olenna suspected he did, because the cheap ones spattered and blotted and the boy was doing work that required precision even if no one else knew it. Parchment, good parchment, in quantities that Lomys wouldn't think to provide and Mace would consider wasteful for a child who should be outside hitting things with sticks.
@@ -107,8 +101,6 @@ The books arrived at Highgarden in ones and twos, slipped into the library by a 
 She watched to see if Willas found them.
 
 He found them within the week. Every time.
-
-[HR]
 
 Mace was the other problem. Or rather, Mace was Mace, which was a permanent condition that Olenna had long since stopped trying to cure and had instead learned to manage, the way you manage a river -- not by stopping it, because rivers don't stop, but by building banks that channel it where you want it to go.
 

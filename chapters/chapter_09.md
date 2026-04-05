@@ -52,8 +52,6 @@ But still. The waste. My carefully preserved barrels of brined vegetables, sitti
 
 I ate my food. I watched my father perform.
 
-[HR]
-
 The performance was magnificent.
 
 Mace stood at the head of the table -- actually stood, pushing back his chair and rising to his full considerable height, a goblet in one hand and the other spread wide in the universal gesture of a man about to say something he considered important and that everyone else would consider long.
@@ -136,8 +134,6 @@ Not "well done." Not "how clever." [I]Do more.[/I] The most Olenna thing she cou
 
 I would. I was already planning to.
 
-[HR]
-
 The household settled. The war receded into memory. The grain wagons resumed their normal schedules, the stores refilled, the servants stopped counting in whispers, and Highgarden returned to the comfortable abundance that was its natural state, the way a river returns to its banks after a flood.
 
 Mace adjusted to peacetime with the seamless ease of a man for whom war and peace were essentially the same thing: a series of occasions to eat, drink, and tell stories about himself. He hosted visitors. He wrote letters. He maintained the fiction of his siege triumph with the tireless dedication of a man who had discovered that if you tell a story often enough, it becomes true, at least for the people who weren't there.
@@ -194,9 +190,9 @@ Above that, the trunk: economic foundation. Trade networks, standardized measure
 
 Above that, the branches: technology. Better metalworking (you needed metal tools to build machines). Better woodworking (you needed structural knowledge to build mills and presses). Basic chemistry (you needed charcoal and solvents and acids for a hundred different processes). Phase Three. Years away.
 
-And at the top, the crown: the printing press. The thing that would change everything. The technology that would make knowledge reproducible, portable, persistent. The machine that would turn one copy of an agricultural manual into a thousand copies, put them in the hands of every lord and steward and farmer in the Reach, and make the entire transformation self-sustaining.
+And at the top, the crown: the printing press. Not a goal in itself — a [I]weapon[/I]. The ultimate tool for spreading influence, shaping perspective, and making an obscene amount of money in the process. Whoever controlled the press controlled what people read, what they learned, what they believed. Tyrell-printed agricultural guides in every farmer's hands meant Tyrell methods becoming the standard. Tyrell-printed legal codes meant Tyrell interpretations of law. Tyrell-printed prayer books meant the Faith owed the Tyrells a debt of convenience they could never quite repay. And every single copy sold for coin that flowed back to Highgarden.
 
-The press was the goal. Everything else was prerequisite.
+The press wasn't the destination. It was the moment the Reach stopped being the richest kingdom in Westeros and became the only one that mattered.
 
 [IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%207.png[/IMG]
 
