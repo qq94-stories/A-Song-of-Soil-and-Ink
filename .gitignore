@@ -1,0 +1,19 @@
+# Reference material (copyrighted epubs/pdfs - do not publish)
+reverence material/
+
+# Planning docs (private - not for public repo)
+premise.txt
+chapter_outline.txt
+informations/*
+
+# Unreleased chapters
+drafts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
