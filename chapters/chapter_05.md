@@ -86,7 +86,7 @@ I did not lose interest.
 
 We planted two beds the following morning. Each about 4 m (4 paces) long, 2 m (2 paces) wide — tiny patches in Highgarden's vast garden complex, barely visible between the ornamental borders and the kitchen herb rows. One bed: wheat seedlings alone, spaced the way Harmon always spaced them. The other: wheat seedlings interplanted with broad beans, alternating rows, the beans tucked in between the wheat at intervals I'd calculated from The Book's companion planting tables and then rounded to numbers that looked like a child's random guesses.
 
-[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%203.png[/IMG]
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/published/IMAGE%203.png[/IMG]
 
 "I think one bean for every three wheats," I said, pretending to count on my fingers. "Is that right?"
 
@@ -104,7 +104,7 @@ He gave me the look again — the one that was recalibrating, trying to fit this
 
 I started a new section in my notebook. Date — or as close to a date as I could manage, since the Westerosi calendar was a thing I was still getting my head around. Weather. Soil condition: wet, dry, somewhere between. A rough sketch of each bed, showing seedling positions. Height measurements, taken with a piece of string I'd knotted at intervals because rulers didn't exist in any standardized form and I wasn't about to invent the metric system at age five.
 
-[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%204.png[/IMG]
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/published/IMAGE%204.png[/IMG]
 
 I measured the wheat. I measured the beans. I noted which seedlings had sprouted and which hadn't. I recorded rainfall when I could tell it had rained and sunlight in vague, qualitative terms — bright day, cloudy day, that sort of thing. Not precise. Not rigorous by any standard The Book would recognize. But [I]consistent[/I], which was more than anyone in this world was doing with their agricultural observations.
 

@@ -12,7 +12,7 @@ Six years old. Reading a treatise on riverine trade routes. At six, her own son 
 
 She sipped the wine. Grimaced. Set it on the balustrade and forgot about it.
 
-The thing about Willas -- the thing that had kept Olenna awake on three separate occasions now, which was three more than any person, problem, or political crisis had managed in the last decade -- was not that he was clever. Clever children were common enough in noble houses. Feed them books, surround them with maesters, and a certain percentage would parrot back impressive things at dinner parties. Trained birds. Olenna had seen dozens in her sixty-odd years at court and at Highgarden, and she could spot the type from across a feast hall: the child who memorized facts, the parents who beamed, the guests who murmured about "such a bright boy," and the inevitable mediocrity that followed when brightness turned out to be the only trick in the bag.
+The thing about Willas -- the thing that had kept Olenna awake on three separate occasions now, which was three more than any person, problem, or political crisis had managed in the last decade -- was not that he was clever. Clever children were common enough in noble houses. Feed them books, surround them with maesters, and a certain percentage would parrot back impressive things at dinner parties. Trained birds. Olenna had seen dozens in her forty-odd years at court and at Highgarden, and she could spot the type from across a feast hall: the child who memorized facts, the parents who beamed, the guests who murmured about "such a bright boy," and the inevitable mediocrity that followed when brightness turned out to be the only trick in the bag.
 
 Willas was not that.
 
@@ -24,35 +24,19 @@ She'd first noticed it three years ago. Not the moment it happened -- she hadn't
 
 Different, Alerie had said. And Olenna, who trusted her daughter-in-law's judgment in all things except her inexplicable tolerance for Mace's table manners, had paid attention.
 
-The first conversation. That awful little room with the toys he no longer played with, the blocks arranged with geometric precision on the shelf. He'd looked at her when she entered and she'd seen -- what? Not a child's eyes. Not exactly. A child's face, certainly, round and soft, baby fat still clinging to cheeks that would one day sharpen into something more recognizable as Tyrell. But the eyes had a quality she associated with old men who'd survived interesting lives. Watchful. Measuring. Aware of being measured in return.
+The first conversation. That awful little room, eight days after the fever broke. She'd gone in expecting a sick child. What she'd found was a four-year-old who told her the south field's soil was depleted because the same crop had been planted three years running, that the well water tasted of iron and might be contaminated by the waste pits uphill, and that the servants should wash their hands before handling food because tiny organisms too small to see were making people sick.
 
-He'd asked about the fields.
+She'd sent Alerie out of the room. She'd tested him further. He'd shown her a map and explained how to prevent riverbank erosion with wooden stakes and woven branches -- fascine work, she'd later learned it was called, after having a maester look it up.
 
-Not "Grandmother, why is the grass green?" or "Grandmother, where do the flowers come from?" -- the simpering questions of a four-year-old seeking attention. He'd asked about drainage. About why the fields nearest the river flooded in spring and whether the water that flooded them was the same water that ran in the river or different water.
+He was four.
 
-Olenna had answered carefully, the way you answer when you realize mid-conversation that the person you're speaking to is not the person you assumed they were. The water was the same. The river overflowed its banks. The fields got wet. They grew better afterward.
+She'd left that room and poured herself a very full glass of wine, because some conversations required processing and some processing required alcohol.
 
-"Why?" he'd asked.
+She'd spent the three years since that conversation watching him the way she watched political rivals: carefully, from a distance, cataloguing everything.
 
-A single word. The most dangerous word in any language, and he'd wielded it the way a maester wields a scalpel -- precisely, purposefully, cutting straight to the thing beneath the thing.
+The questions came first. He asked the maester about rainfall and harvest yields. He asked servants how long grain lasted in storage. He asked Harmon the gardener about soil composition, and Harmon, gods bless the man, had answered as if five-year-olds asked about soil acidity every day. Then came the reading. Lomys reported that young Lord Willas was interested in geography, agriculture, and trade, with the benign satisfaction of a man who believed he was guiding the process. What Lomys failed to notice was that Willas was filling gaps in a sequence: Reach geography led to trade routes, trade routes led to grain transport, grain transport led to preservation methods. Each book fed the next question. It was too orderly for a child. It made Olenna's skin prickle.
 
-She'd told him she didn't know. Because she didn't. Because Olenna Tyrell had lived six decades in the most fertile region on the continent and had never once wondered why flood-wet fields grew better than dry ones, because it had never occurred to her that there was a [I]why[/I] beyond "the gods made it so" or "it's always been that way," both of which were answers that Olenna privately considered to be sophisticated forms of shrugging.
-
-He'd nodded. Not disappointed. Not surprised. Just... cataloguing. Filing her answer into some internal system she couldn't see and didn't understand.
-
-She'd left that room and gone directly to her chambers and sat in her chair and thought for a very long time about the look in a four-year-old's eyes.
-
-Three years of watching. Three years of careful, quiet, systematic observation, conducted with the same discipline she applied to political intelligence and for roughly the same reasons: because information was power, and her grandson was generating information that didn't fit any pattern she recognized.
-
-She kept a list. Not written -- Olenna had learned decades ago that written things could be found, and found things could be used against you. Mental. Organized. Comprehensive.
-
-The questions. Always the questions. He asked the maester about rainfall and harvest yields and the distances between river towns. He asked the servants about food storage and how long grain lasted in different conditions. He asked the gardener -- Harmon, the man with the ruined hands and the encyclopedic knowledge of dirt -- about soil composition, and the gardener, gods bless his simple heart, had answered as if a five-year-old asking about soil acidity was the most natural thing in the world.
-
-The reading. Not just reading, which would have been merely precocious. Directed reading. Strategic reading. Olenna had asked Maester Lomys what the boy was studying, and Lomys had reported -- with the benign satisfaction of a man who believed he was guiding the process -- that young Lord Willas was interested in geography, agriculture, and trade. What Lomys had not reported, because Lomys had not noticed, was the [I]pattern[/I]. Willas wasn't reading randomly. He was filling gaps. He read about the Reach's geography, then asked about trade routes. He read about trade routes, then asked about grain transport. He read about grain transport, then asked about preservation methods. Each book was a stepping stone to the next question, and each question led to the next book, and the whole chain formed a structure so orderly and purposeful that it made Olenna's skin prickle.
-
-Five-year-olds did not build knowledge architectures. Five-year-olds built towers out of blocks and knocked them down.
-
-The notebook. This was the part that kept her up at night.
+Then she found the notebook.
 
 She'd seen it once, briefly, when a servant had brought the boy's laundry to be mended and the notebook had fallen from a pocket. Olenna had intercepted it -- casually, the way she intercepted everything, making it look like idle curiosity when it was anything but. She'd opened it expecting childish drawings. Perhaps some wobbly letters, the kind of practice Lomys would assign.
 
@@ -84,7 +68,7 @@ Extraordinary boys get noticed. Noticed boys get used. Used boys get broken.
 
 Unless someone is paying attention. Unless someone builds a wall between the extraordinary boy and the world that wants to eat him, and holds that wall, and does it so quietly that the world never realizes the wall exists.
 
-Olenna had been building walls for sixty years. She was very, very good at it.
+Olenna had been building walls for forty years. She was very, very good at it.
 
 She started with money.
 

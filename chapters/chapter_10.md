@@ -86,7 +86,7 @@ But [I]well enough[/I] wasn't the same as [I]good[/I]. The Book's sections on ma
 
 Charcoal production was pyrolysis. That was the technical term, and it meant: heating wood in the absence of oxygen until the volatile compounds — water, methane, various organic gases — boiled off, leaving behind a structure that was mostly pure carbon. The key was the [I]absence of oxygen[/I] part. Wood burned in open air was just fire: messy, relatively cool, inefficient. Wood heated without oxygen didn't burn. It [I]transformed[/I]. The water evaporated. The gases escaped. And what remained was charcoal: light, porous, and capable of burning at temperatures between 900 and 1,100°C (1,650 to 2,010°F).
 
-[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%208.png[/IMG]
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/published/IMAGE%208.png[/IMG]
 
 For comparison, and comparison was the whole point: wood burned in a fireplace reached maybe 300-400°C (570-750°F). Good enough to heat a room, cook a meal, keep the cold at bay. Not good enough to smelt metal properly, forge high-quality steel, or drive any of the industrial processes that separated an agricultural economy from one that could actually build things.
 

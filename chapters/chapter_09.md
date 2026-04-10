@@ -194,7 +194,7 @@ And at the top, the crown: the printing press. Not a goal in itself — a [I]wea
 
 The press wasn't the destination. It was the moment the Reach stopped being the richest kingdom in Westeros and became the only one that mattered.
 
-[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%207.png[/IMG]
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/published/IMAGE%207.png[/IMG]
 
 I traced the lines of The Tree with my finger, following the paths from root to crown, and felt something I hadn't expected.
 

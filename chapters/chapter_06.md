@@ -134,7 +134,7 @@ A basic trigger mechanism — the revolving nut, a cylinder with a notch that he
 
 A stirrup redesign that allowed the crossbow to be drawn while the user was standing, kneeling, or braced against a wall. Versatility. Flexibility.
 
-[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%205.png[/IMG]
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/published/IMAGE%205.png[/IMG]
 
 I sketched for an hour, my handwriting forgotten, the drawings increasingly detailed and increasingly dangerous. If anyone found these pages, they wouldn't see a child's scribbles — they'd see technical diagrams for a weapon that could put a bolt through chainmail at ranges that made conventional archery irrelevant.
 

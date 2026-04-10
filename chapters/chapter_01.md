@@ -8,75 +8,59 @@ Heat first. A dry, bone-deep heat that had nothing to do with the blankets piled
 
 God, the smell.
 
-Tallow and woodsmoke and something herbal and bitter, underlaid by the unmistakable funk of a room where someone had been very sick for a very long time. It hit me like a wall. Not unpleasant, exactly — just [I]real[/I] in a way that cut through the fog like a knife.
+Tallow and woodsmoke and something herbal and bitter, underlaid by the unmistakable funk of a room where someone had been very sick for a very long time. It hit me like a wall, [I]real[/I] in a way that cut through the fog like a knife.
 
-I tried to open my eyes. The lids were gummed shut, crusted with whatever the fever had wrung out of me, and the effort of peeling them apart took more strength than it should have. The light that greeted me was wrong. Not the blue-white of fluorescent tubes or the warm glow of an LED bulb, but something flickering, orange, alive. Candles. Actual candles, fat and guttering in iron holders bolted to a stone wall.
+I tried to open my eyes. The lids were gummed shut, crusted with whatever the fever had wrung out of me, and the effort of peeling them apart took more strength than it should have. The light that greeted me was wrong: something flickering, orange, alive. Candles. Actual candles, fat and guttering in iron holders bolted to a stone wall.
 
-Stone.
+The wall was stone. Rough-dressed, mortared, real stone, close enough that I could see the chisel marks. Above me, the ceiling was timber, massive dark beams holding up what looked like the entire weight of the world. This was not a hospital.
 
-The wall was stone. Rough-dressed, mortared, real stone, close enough that I could see the chisel marks. Above me, the ceiling was timber — massive dark beams holding up what looked like the entire weight of the world.
+"He's waking." A woman's voice, rough with exhaustion, cracking on the second word. "Maester, he's waking, his eyes—"
 
-This was not a hospital.
+A shape moved into my field of vision. A woman. Young, though the dark circles under her eyes and the lank unwashed hair aged her. She was beautiful in the way that mattered, the way that had nothing to do with arrangement of features and everything to do with the desperate, ferocious hope burning in her expression as she leaned over me.
 
-"He's waking." A woman's voice, rough with exhaustion, cracking on the second word. "Maester, he's waking — his eyes—"
-
-A shape moved into my field of vision. A woman. Young, though the dark circles under her eyes and the lank unwashed hair aged her. She was beautiful in the way that mattered — the way that had nothing to do with arrangement of features and everything to do with the desperate, ferocious hope burning in her expression as she leaned over me.
-
-I didn't know her.
-
-That thought landed like a stone in still water, and the ripples went deep. I didn't know this woman who was looking at me like I was the only thing in the world that mattered. I didn't know this room. I didn't know why my body felt like it had been wrung out and hung up to dry, small and weak and [I]wrong[/I] in ways I couldn't articulate.
+I didn't know her. That thought landed like a stone in still water, and the ripples went deep. I didn't know this woman who was looking at me like I was the only thing in the world that mattered. I didn't know this room. I didn't know why my body felt like it had been wrung out and hung up to dry, small and weak and [I]wrong[/I] in ways I couldn't articulate.
 
 "Willas." She breathed the name like a prayer. "My sweet boy. Can you hear me?"
 
-Willas.
+Willas. That wasn't my name. I knew it the way you know your hand is yours; the certainty lived in the yawning gap where my identity should have been. That wasn't my name, but I couldn't for the life of me remember what was. I reached for it, the shape of it, the sound of it in someone else's mouth, and found nothing. Smoke. A door that opened onto an empty room.
 
-That wasn't my name. I knew that with a certainty that had nothing to do with evidence and everything to do with the yawning gap where my identity should have been. That wasn't my name, but I couldn't for the life of me remember what was. I reached for it — reached for the shape of it, the sound of it in someone else's mouth — and found nothing. Smoke. A door that opened onto an empty room.
-
-"The fever has broken." Another voice, older, measured. A man shuffled into view — elderly, stooped, wearing a heavy chain of linked metal around his neck, each link a different metal. He pressed dry fingers to my wrist, then my forehead. "The crisis has passed. His color is returning."
+"The fever has broken." Another voice, older, measured. A man shuffled into view: elderly, stooped, wearing a heavy chain of linked metal around his neck, each link a different metal. He pressed dry fingers to my wrist, then my forehead. "The crisis has passed. His color is returning."
 
 The woman — she was crying now, silently, tears cutting clean tracks through the grime on her cheeks. She gathered me up, and I mean [I]gathered[/I], because I was small enough to gather, small enough that her arms encompassed me entirely. I was pressed against her chest and she smelled of rosewater and worry and days without sleep.
 
-I was a child.
-
-The realization arrived with the force of a physical blow. I was a child. My hands, when I raised them — trembling, weak — were tiny. Soft. Unformed. The proportions of my body were all wrong because they were the proportions of someone very young, someone whose head was too large for his frame and whose limbs were still padded with baby fat.
-
-I was a child, in a stone room, being held by a woman I didn't know, and a man with a chain around his neck was taking my pulse.
+I was a child. The realization arrived with the force of a physical blow. My hands, when I raised them (trembling, weak) were tiny and unformed. The proportions of my body were all wrong because they were the proportions of someone very young, someone whose head was too large for his frame and whose limbs were still padded with baby fat. A child, in a stone room, being held by a woman I didn't know, while a man with a chain around his neck took my pulse.
 
 I opened my mouth. What came out was a croak, dry and thin, barely a sound at all.
 
 "Water," the maester said. "Small sips. The stomach will be fragile."
 
-The woman — my mother, because that's what she was, I understood that now even if I couldn't feel it — eased me back onto the pillows and brought a cup to my lips. The water was lukewarm and tasted faintly of something I couldn't name, but it was the best thing I had ever tasted. I drank, coughed, drank again.
+The woman (my mother, because that's what she was, I understood that now even if I couldn't feel it) eased me back onto the pillows and brought a cup to my lips. The water was lukewarm and tasted faintly of something I couldn't name, but it was the best thing I had ever tasted. I drank, coughed, drank again.
 
 "Slowly, my love." Her hand on my forehead, pushing back sweat-damp hair. "You've been so ill. Three days. We thought—" Her voice broke. She didn't finish.
 
 Three days. I'd been wherever I was for at least three days, burning with fever in a body that wasn't mine. Or was mine, now, by right of occupancy if nothing else.
 
-I tried to think. Tried to sort through the wreckage of whatever had happened to me and find something solid to stand on. My name — gone. My face — I couldn't picture it. My life, my history, everything that had made me [I]me[/I] — fragmenting, dissolving, like sugar in hot water. I could feel it happening in real time, memories slipping through my fingers every time I tried to close my hand around them. A flash of sunlight on glass. The hum of... something. A machine, maybe. A place with white walls and bright lights and the smell of coffee. The sound of someone laughing.
+I tried to think. Tried to sort through the wreckage of whatever had happened to me and find something solid to stand on. My name was gone. My face, I couldn't picture it. My life, my history, everything that had made me [I]me[/I], all of it fragmenting, dissolving, like sugar in hot water. I could feel it happening in real time, memories slipping through my fingers every time I tried to close my hand around them. A flash of sunlight on glass. The hum of... something. A machine, maybe. A place with white walls and bright lights and the smell of coffee. The sound of someone laughing.
 
-Gone.
+Gone. In pieces, like a book left in the rain, the ink running, the pages going soft and pulpy until the words were nothing but colored smudges.
 
-Not all at once. In pieces. Like a book left in the rain, the ink running, the pages going soft and pulpy until the words were nothing but colored smudges.
+But right there, in the middle of the catastrophe that was my disintegrating identity, something stood firm. Sharp and clear and immovable, like a monolith in a sandstorm.
 
-But here's the thing.
+I reached for it instinctively, the way you reach for a railing when you stumble, and it [I]opened[/I].
 
-Not everything was dissolving. Not everything was going soft. Because right there, in the middle of the catastrophe that was my disintegrating identity, something stood firm. Something sharp and clear and immovable, like a monolith in a sandstorm.
+A page. Cream-colored, heavy stock, covered in hand-drawn illustrations so precise they looked like they'd been etched rather than sketched. Crop rotation. A diagram of four fields in sequence (wheat, turnips, barley, clover) with annotations in a careful hand explaining [I]why[/I]. The chemistry beneath the practice. Nitrogen fixation. Soil biology. The symbiotic dance between legumes and bacteria that turns air into fertilizer.
 
-I reached for it — instinctively, the way you reach for a railing when you stumble — and it [I]opened[/I].
-
-A page. Cream-colored, heavy stock, covered in hand-drawn illustrations so precise they looked like they'd been etched rather than sketched. Crop rotation. A diagram of four fields in sequence — wheat, turnips, barley, clover — with annotations in a careful hand explaining [I]why[/I]. Not just what to plant, but the chemistry beneath it. Nitrogen fixation. Soil biology. The symbiotic dance between legumes and bacteria that turns air into fertilizer.
-
-[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%201.png[/IMG]
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/published/IMAGE%201.png[/IMG]
 
 I could read every word. Trace every line. The page was as sharp as if I were holding it 15 cm (6 inches) from my face.
 
-That... was not normal.
+That was not normal.
 
-I reached for the next page. It came willingly. Irrigation — contour plowing, aqueducts, the relationship between gradient and flow rate. Detailed. Correct. [I]Crystalline[/I].
+I reached for the next page. It came willingly. Irrigation, contour plowing, aqueducts, the relationship between gradient and flow rate. Detailed, correct, [I]crystalline[/I].
 
-My breath caught. I reached further, faster, and the pages came like a dam breaking. Sanitation — germ theory, transmission vectors, why boiling water kills the things that kill children. Metallurgy — carbon content, blast furnace principles, the difference between iron that bends and steel that holds. Medicine — how to suture a wound, why cleanliness matters, the properties of willow bark for fever.
+My breath caught. I reached further, faster, and the pages came like a dam breaking. Sanitation: germ theory, transmission vectors, why boiling water kills the things that kill children. Metallurgy: carbon content, blast furnace principles, the difference between iron that bends and steel that holds. Medicine: how to suture a wound, why cleanliness matters, the properties of willow bark for fever.
 
-Willow bark. For fever.
+Willow bark. For the very fever I was lying in.
 
 I almost laughed. Almost. I was lying in a medieval bed soaked in my own sweat, recovering from a fever that had nearly killed me, and somewhere in my skull was a perfect explanation of why the bitter drink the maester had been forcing down my throat actually worked. Salicin. Metabolized into salicylic acid. Anti-inflammatory and antipyretic. I knew the [I]mechanism[/I] and couldn't hold a cup.
 

@@ -4,7 +4,7 @@
 
 She was smaller than I expected.
 
-That was the first thing — and it shouldn't have surprised me, because everyone was bigger than I expected and I was smaller than everything, so relative size had become meaningless. But Olenna Tyrell, née Redwyne, the Queen of Thorns, Lady of Highgarden in all but title, was genuinely, objectively small. Barely 1.5 m (5 ft) in her shoes, and those shoes had heels. She was thin and sharp and brown, with the complexion of a woman who had spent seventy years in the sun and the posture of someone who considered slouching a moral failing.
+That was the first thing — and it shouldn't have surprised me, because everyone was bigger than I expected and I was smaller than everything, so relative size had become meaningless. But Olenna Tyrell, née Redwyne, the Queen of Thorns, Lady of Highgarden in all but title, was genuinely, objectively small. Barely 1.5 m (5 ft) in her shoes, and those shoes had heels. She was thin and sharp and brown, with the complexion of a woman who had spent forty-odd years in the sun and the posture of someone who considered slouching a moral failing.
 
 She walked into my room on the eighth day without knocking, without announcement, without any of the fuss that attended Mace's visits or the gentle concern of Alerie's. She simply appeared in the doorway, looked at me the way a jeweler looks at a stone before deciding whether it's worth cutting, and sat down.
 
@@ -18,7 +18,7 @@ I blinked. The assembled nursemaids and servants seemed to collectively hold the
 
 "Thank you, Grandmother."
 
-"Don't thank me for honesty. It's the cheapest thing I have to give." She studied me. The eyes were the thing — dark, bright, set in a network of wrinkles that mapped sixty-plus years of squinting at people and finding them wanting. They missed nothing. I could feel them cataloguing me: the paleness, the thinness, the way I sat propped against pillows instead of slumping the way a sick child would.
+"Don't thank me for honesty. It's the cheapest thing I have to give." She studied me. The eyes were the thing — dark, bright, set in a network of wrinkles that mapped forty-odd years of squinting at people and finding them wanting. They missed nothing. I could feel them cataloguing me: the paleness, the thinness, the way I sat propped against pillows instead of slumping the way a sick child would.
 
 The way a sick child would.
 
@@ -186,7 +186,7 @@ I stared at the map. It was hand-drawn, beautiful in the way that pre-cartograph
 
 I was describing riparian management. Fascines and revetments. The Book had diagrams. I could see them perfectly, clear as the day they were... drawn? Printed? I didn't know the provenance. I only knew the content.
 
-[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%202.png[/IMG]
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/published/IMAGE%202.png[/IMG]
 
 Olenna looked at the map. She looked at me. She looked at the map again.
 

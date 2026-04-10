@@ -49,6 +49,26 @@ A four-year-old boy wakes from a fever that should have killed him. He can't rem
 
 ### Volume 1 Total: 80,532 words
 
-### Volume 2: The Reformer & The Builder (Ages 12-20) — *in progress*
+---
+
+### Arc 3: The Reformer (Ages 12-16) — *releasing weekly*
+
+| # | Title | Words |
+|---|-------|------:|
+| 22 | The Reach Notices | 5,378 |
+| 23 | Ink and Iron | 4,656 |
+| 24 | Books for Lords, Pictures for Farmers | 5,857 |
+| 25 | Interlude: A Florent Lord | 4,701 |
+| 26 | The Sphinx's Letters | 4,433 |
+| 27 | The Tourney | 5,145 |
+| 28 | The Trading Company | 5,988 |
+| 29 | Banking | 4,988 |
+| 30 | Interlude: Margaery | 5,878 |
+| 31 | The Reach Spirit | 5,830 |
+| | **Arc 3 Total** | **52,854** |
+
+### Arc 4: The Builder (Ages 16-20) — *planned*
 
 ### Volume 3: The Game Begins (Age 20+) — *planned*
+
+### Running Total: 133,386 words

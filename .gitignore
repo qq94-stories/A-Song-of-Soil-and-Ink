@@ -1,14 +1,24 @@
-# Reference material (copyrighted epubs/pdfs - do not publish)
-reverence material/
+# Reference material (copyrighted epubs/pdfs — do not publish)
+reference material/
 
-# Planning docs (private - not for public repo)
+# Planning docs (private — not for public repo)
 CLAUDE.md
+STORY_LOG.md
 premise.txt
+premise/
 chapter_outline.txt
-informations/*
+chapter_outline/
+story/
+
+# Reader iteration loop (private)
+feedback/
 
 # Unreleased chapters
 drafts/
+
+# Image staging — only images/published/ ships to the public repo
+images/drafts/
+images/_index.md
 
 # OS files
 .DS_Store

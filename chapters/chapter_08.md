@@ -124,7 +124,7 @@ He blinked. "Twice."
 
 Lacto-fermentation and vinegar pickling. The Book had an entire section on preservation techniques that predated refrigeration, methods that humanity had used for thousands of years to store food through lean seasons. Sauerkraut, kimchi, pickled vegetables, salt-cured meats, dried fruits, smoked fish -- the full arsenal of pre-industrial food preservation, most of which this world already practiced in crude, inefficient forms that wasted half the potential shelf life through poor technique.
 
-[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/IMAGE%206.png[/IMG]
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/published/IMAGE%206.png[/IMG]
 
 I wasn't introducing anything new. I was refining what already existed. The distinction mattered.
 
