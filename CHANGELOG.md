@@ -17,6 +17,7 @@ repo. Reader-facing.
 | 8 | War Comes Home | 2026-04-07 | ~4,600 | Robert's Rebellion arrives |
 | 9 | The Lord Returns | 2026-04-08 | ~4,500 | Mace returns from war |
 | 10 | The Workshop | 2026-04-09 | ~4,700 | Arc 2 opens |
+| 11 | The Blacksmith | 2026-04-11 | ~5176 |  |
 
 **Total released:** 10 chapters, ~45,000 words.
 
