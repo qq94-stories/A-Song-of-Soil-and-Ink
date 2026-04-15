@@ -4,11 +4,9 @@
 
 The world came back in pieces.
 
-Heat first. A dry, bone-deep heat that had nothing to do with the blankets piled on top of me and everything to do with the furnace that had taken up residence behind my eyeballs. Then sound — a low murmuring, words I couldn't parse, syllables that belonged to a language I understood but couldn't quite reach. Then smell.
+Heat first. A dry, bone-deep heat that had nothing to do with the blankets piled on top of me and everything to do with the furnace that had taken up residence behind my eyeballs. Then sound, a low murmuring, words I couldn't parse, syllables that belonged to a language I understood but couldn't quite reach. Then smell.
 
-God, the smell.
-
-Tallow and woodsmoke and something herbal and bitter, underlaid by the unmistakable funk of a room where someone had been very sick for a very long time. It hit me like a wall, [I]real[/I] in a way that cut through the fog like a knife.
+God, the smell. Tallow and woodsmoke and something herbal and bitter, underlaid by the unmistakable funk of a room where someone had been very sick for a very long time. It hit me like a wall, [I]real[/I] in a way that cut through the fog like a knife.
 
 I tried to open my eyes. The lids were gummed shut, crusted with whatever the fever had wrung out of me, and the effort of peeling them apart took more strength than it should have. The light that greeted me was wrong: something flickering, orange, alive. Candles. Actual candles, fat and guttering in iron holders bolted to a stone wall.
 
@@ -26,7 +24,7 @@ Willas. That wasn't my name. I knew it the way you know your hand is yours; the 
 
 "The fever has broken." Another voice, older, measured. A man shuffled into view: elderly, stooped, wearing a heavy chain of linked metal around his neck, each link a different metal. He pressed dry fingers to my wrist, then my forehead. "The crisis has passed. His color is returning."
 
-The woman — she was crying now, silently, tears cutting clean tracks through the grime on her cheeks. She gathered me up, and I mean [I]gathered[/I], because I was small enough to gather, small enough that her arms encompassed me entirely. I was pressed against her chest and she smelled of rosewater and worry and days without sleep.
+The woman was crying now, silently, tears cutting clean tracks through the grime on her cheeks. She gathered me up, and I mean [I]gathered[/I], because I was small enough to gather, small enough that her arms encompassed me entirely. I was pressed against her chest and she smelled of rosewater and worry and days without sleep.
 
 I was a child. The realization arrived with the force of a physical blow. My hands, when I raised them (trembling, weak) were tiny and unformed. The proportions of my body were all wrong because they were the proportions of someone very young, someone whose head was too large for his frame and whose limbs were still padded with baby fat. A child, in a stone room, being held by a woman I didn't know, while a man with a chain around his neck took my pulse.
 
@@ -52,9 +50,7 @@ A page. Cream-colored, heavy stock, covered in hand-drawn illustrations so preci
 
 [IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/published/IMAGE%201.png[/IMG]
 
-I could read every word. Trace every line. The page was as sharp as if I were holding it 15 cm (6 inches) from my face.
-
-That was not normal.
+I could read every word. Trace every line. The page was as sharp as if I were holding it 15 cm (6 inches) from my face. That was not normal.
 
 I reached for the next page. It came willingly. Irrigation, contour plowing, aqueducts, the relationship between gradient and flow rate. Detailed, correct, [I]crystalline[/I].
 
@@ -64,41 +60,37 @@ Willow bark. For the very fever I was lying in.
 
 I almost laughed. Almost. I was lying in a medieval bed soaked in my own sweat, recovering from a fever that had nearly killed me, and somewhere in my skull was a perfect explanation of why the bitter drink the maester had been forcing down my throat actually worked. Salicin. Metabolized into salicylic acid. Anti-inflammatory and antipyretic. I knew the [I]mechanism[/I] and couldn't hold a cup.
 
-The laughter died in my throat because the pages were still coming. Architecture. Engineering. Economics. Military theory. Chemistry. Navigation. They flooded in, not as a blur but with terrible clarity — every diagram legible, every formula intact, every cross-reference precise. Hundreds of pages. Thousands. An entire library compressed into perfect recall, organized by subject, indexed and annotated, and none of it fading. Not one word. Not one line.
+The laughter died in my throat because the pages were still coming. Architecture, engineering, economics, military theory, chemistry, navigation. They flooded in with terrible clarity — every diagram legible, every formula intact, every cross-reference precise. Hundreds of pages. Thousands. An entire library compressed into perfect recall, organized by subject, indexed and annotated, and none of it fading. Every word intact. Every line.
 
-Everything else was dissolving. My name, my face, my life — running like watercolors in rain.
-
-This held.
+Everything else was dissolving. My name, my face, my life, all of it running like watercolors in rain. This held.
 
 The Book. That's what I called it, the name arriving with the certainty of something that had always been true. The Book. I didn't remember reading it, didn't remember where it came from, couldn't recall the weight of it in my hands or the circumstances of its study. It was just [I]there[/I]. Embedded in my mind like a fossil in stone while everything around it eroded.
 
-I could calculate the load-bearing capacity of a stone arch but not remember my mother's name.
-
-Not [I]this[/I] mother. My real mother. The one from before, already fading to a warmth without a face. I reached for her and found only the chemical formula for gunpowder.
+I could calculate the load-bearing capacity of a stone arch but not remember my mother's name. My real mother, I mean. The one from before, already fading to a warmth without a face. I reached for her and found only the chemical formula for gunpowder.
 
 Something twisted in my chest. Grief, I think. Or the memory of grief, which might be the same thing when you're losing the capacity to distinguish between them.
 
 "Willas? Sweeting, are you in pain?"
 
-I focused on the woman — Alerie, her name surfaced from somewhere, a gift from the body's original tenant or a fragment that hadn't dissolved yet. Alerie Tyrell, née Hightower. My mother. [I]This[/I] mother.
+I focused on the woman. Alerie, her name surfaced from somewhere, a gift from the body's original tenant or a fragment that hadn't dissolved yet. Alerie Tyrell, née Hightower. My mother. [I]This[/I] mother.
 
 I shook my head. It was a small movement, all I could manage, but she saw it and the relief that washed over her face was almost painful to witness.
 
-"The maester says you'll be well. The fever has broken. You just need rest and broth and time." She was stroking my hair, rhythmic, soothing. The gesture was practiced, automatic — she'd been doing this for three days, I realized. Sitting here, stroking my hair, bargaining with whatever gods she believed in.
+"The maester says you'll be well. The fever has broken. You just need rest and broth and time." She was stroking my hair, rhythmic, soothing. She'd been doing this for three days, I realized. The gesture was practiced, automatic. Sitting here, stroking my hair, bargaining with whatever gods she believed in.
 
 I should say something. A child would say something. [I]Mama[/I], probably, or [I]thirsty[/I], or [I]what happened[/I]. Something small and frightened and age-appropriate.
 
-"Tired," I managed. My voice was a reedy whisper, and the word came out slightly garbled because my mouth was the wrong shape and my tongue was too thick and my throat was raw from days of fever. But it was the right word — simple, true, and exactly what a sick four-year-old would say.
+"Tired," I managed. My voice was a reedy whisper, and the word came out slightly garbled because my mouth was the wrong shape and my tongue was too thick and my throat was raw from days of fever. But it was the right word, simple and true, exactly what a sick four-year-old would say.
 
 Alerie smiled. It transformed her face — the exhaustion was still there, but underneath it she was luminous. "Then sleep, my sweet boy. I'll be here when you wake."
 
-I closed my eyes. Not because I wanted to sleep — my mind was racing, turning over the impossible architecture of my situation with a desperate, clawing need to [I]understand[/I] — but because a four-year-old recovering from a near-fatal fever would sleep, and I needed to start as I meant to go on.
+I closed my eyes. My mind was racing, turning over the impossible architecture of my situation with a desperate, clawing need to [I]understand[/I], but a four-year-old recovering from a near-fatal fever would sleep, and I needed to start as I meant to go on.
 
-Behind my eyelids, The Book waited. Patient. Vast. Full of answers to questions I hadn't learned to ask yet.
+Behind my eyelids, The Book waited. Patient and vast, full of answers to questions I hadn't learned to ask yet.
 
 [HR]
 
-I didn't sleep. Not really. I drifted in the shallows, half-conscious, while my mind worked.
+I didn't sleep. I drifted in the shallows, half-conscious, while my mind worked.
 
 The facts, such as I could establish them:
 
@@ -106,50 +98,38 @@ I was in a child's body. A boy named Willas, approximately four years old based 
 
 I knew these things the way you know the rules of a card game you learned as a child — automatically, without effort, from some deep stratum of memory that predated whatever I was.
 
-Maester. The word kept snagging. Maester.
-
-The chain. The stone walls. The candles. Tyrell.
+Maester. The word kept snagging. Maester. The chain. The stone walls. The candles. Tyrell.
 
 [I]Willas Tyrell.[/I]
 
-The name landed and detonated. I knew it. Not from personal experience — from context. From the shape of the world it belonged to. A world of seven kingdoms and old gods and new, of great houses and feudal politics and — 
+The name landed and detonated. I knew it from context, from the shape of the world it belonged to. A world of seven kingdoms and old gods and new, of great houses and feudal politics and —
 
 And that was where the trail went cold. Because The Book, for all its encyclopedic thoroughness on the subjects of agriculture and metallurgy and military engineering, had nothing whatsoever to say about the political future of Westeros. I knew the name. I knew the world. I knew, in the vague way you know the rules of a game you've heard described but never played, that this was a place of deep and complex history. But the specifics — the events, the players, the moves yet to come — were as blank as my own biography.
 
 I was Willas Tyrell, heir to Highgarden, and I had no idea what that meant.
 
-What I [I]did[/I] know was this: I was in a pre-industrial feudal society with access to a mental library that contained, conservatively, five hundred years of technological and scientific advancement. Everything from crop yields to germ theory to the principles of the printing press. Not just recipes — [I]understanding[/I]. The Book didn't just tell you how to make cement; it explained why calcium silicates hydrate and what that means for compressive strength. It didn't just describe a watermill; it derived the relationship between head height and power output.
+What I [I]did[/I] know was this: I was in a pre-industrial feudal society with access to a mental library that contained, conservatively, five hundred years of technological and scientific advancement. Everything from crop yields to germ theory to the principles of the printing press. The Book went deeper than recipes. It explained why calcium silicates hydrate and what that means for compressive strength. It derived the relationship between a watermill's head height and its power output. [I]Understanding[/I], encoded at every level.
 
-I was four years old, recovering from a fever that had nearly killed me, in a world that didn't know why people got sick.
-
-And my head was full of answers.
+I was four years old, recovering from a fever that had nearly killed me, in a world that didn't know why people got sick. And my head was full of answers.
 
 The absurdity of it almost made me laugh. Almost. But my throat was too raw and my body too weak and the grief was still there, a dull ache in a part of me that The Book couldn't reach. I had been someone. I had lived a life, had people who mattered to me, had a name and a history and all the accumulated weight of a human existence. And now it was gone, dissolving in real time, replaced by a child's body and an impossible library and a world that smelled of tallow and rushes.
 
 I let myself feel it. For exactly as long as the feeling lasted, which was less time than I expected — maybe because the memories were already too thin to sustain real mourning, or maybe because whatever I had been, I was apparently the practical sort. Grief is a luxury. Understanding is a tool. And I had work to do.
 
-Not now. Not tonight. Tonight I was a sick child who needed rest, watched over by a mother who loved me and a maester who knew his craft. Tonight I would be small and weak and grateful for the warmth of blankets and the sound of a fire.
-
-But tomorrow.
+Tomorrow, though. Tonight I was a sick child who needed rest, watched over by a mother who loved me and a maester who knew his craft. Tonight I would be small and weak and grateful for the warmth of blankets and the sound of a fire.
 
 Tomorrow I would begin to learn the shape of my cage. The extent of my resources. The nature of the game I'd been dropped into without rules or context.
 
-Tomorrow I would begin.
-
-I opened my eyes one last time. The room was dimmer now — someone had snuffed most of the candles. Alerie was still there, slumped in a chair by the bed, finally sleeping. Her hand rested on the coverlet near mine, fingers curled loosely, as if even in sleep she needed to be sure I was there.
+I opened my eyes one last time. The room was dimmer now; someone had snuffed most of the candles. Alerie was still there, slumped in a chair by the bed, finally sleeping. Her hand rested on the coverlet near mine, fingers curled loosely, as if even in sleep she needed to be sure I was there.
 
 I looked at her for a long moment. This stranger who was my mother. This woman who had sat vigil for three days over a boy who had died and come back as something else.
 
-I owed her. I didn't love her — I couldn't, not yet, not with the soul of whoever I was still raw and bleeding — but I owed her.
+I owed her. I didn't love her yet, couldn't, with the soul of whoever I was still raw and bleeding. But I owed her.
 
 The maester was gone. The room was quiet except for the pop and settle of the fire. Somewhere beyond the walls, I could hear the wind, and beneath it, nothing. No traffic. No electrical hum. No distant rumble of industry or commerce. Just wind and stone and silence.
 
-A new world. A blank page.
+The page wasn't blank. It was already written — I just couldn't read it yet. But I had The Book, and I had time, and I had the one advantage that mattered more than any other in any world, in any age.
 
-No. Not blank. The page was already written — I just couldn't read it yet. But I had The Book, and I had time, and I had the one advantage that mattered more than any other in any world, in any age.
-
-I knew things.
-
-Useful things.
+I knew things. Useful things.
 
 ---

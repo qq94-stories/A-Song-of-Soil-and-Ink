@@ -13,6 +13,9 @@ story/
 # Reader iteration loop (private)
 feedback/
 
+# Story wiki (per-story canon deltas + OCs — planning machinery, private)
+wiki/
+
 # Unreleased chapters
 drafts/
 

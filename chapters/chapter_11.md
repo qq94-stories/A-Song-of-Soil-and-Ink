@@ -12,9 +12,9 @@ He was also, as I discovered within five minutes of meeting him, the most stubbo
 
 "I'm the boy with the charcoal," I confirmed.
 
-"Good charcoal." He said this the way a man might say "nice weather," an acknowledgment of fact, stripped of enthusiasm, implying that while the fact was noted it didn't necessarily lead anywhere interesting. "Your man Harmon said you built a kiln."
+"Good charcoal." The words were flat, professional, an acknowledgment of fact stripped of enthusiasm. He was giving me nothing. "Your man Harmon said you built a kiln."
 
-"A brick kiln. With air controls." I'd prepared for this meeting the way a general prepared for battle: with reconnaissance, strategy, and the grim awareness that the first plan never survived contact with the enemy. Tobho wasn't the enemy, exactly, just a master craftsman being approached by a child, and the gap between what I knew and what I could credibly claim to know was a canyon that I had to cross without falling in. "The charcoal burns hotter because the conversion is more complete. Less raw wood left in the finished product, fewer impurities."
+"A brick kiln. With air controls." I'd prepared for this meeting with reconnaissance, strategy, and the grim awareness that the first plan never survived contact with the enemy. Tobho wasn't the enemy, exactly, just a master craftsman being approached by a child, and the gap between what I knew and what I could credibly claim to know was a canyon that I had to cross without falling in. "The charcoal burns hotter because the conversion is more complete. Less raw wood left in the finished product, fewer impurities."
 
 He stared at me. The stare of a man recalibrating his assumptions about what eight-year-olds said.
 
@@ -22,7 +22,7 @@ He stared at me. The stare of a man recalibrating his assumptions about what eig
 
 "The parts that aren't carbon." I caught myself. Stepped back. [I]Child. You are a child.[/I] "The parts that aren't... the burny bit. The wood stuff that didn't finish turning into charcoal."
 
-Better. Clumsier. More age-appropriate. Tobho's expression shifted from [I]alarmed[/I] to [I]amused[/I], which was a significant improvement.
+Better. Clumsier. More age-appropriate. Tobho's expression shifted from [I]alarmed[/I] to [I]amused[/I], a significant improvement.
 
 "The burny bit," he said. Was that the ghost of a smile? Hard to tell under the soot.
 
@@ -32,19 +32,13 @@ He looked at me for a long moment. Behind him, the forge breathed, the rhythmic 
 
 "Come on, then," Tobho said, and turned back into the forge, resigned in the way men are resigned when they've learned long ago that refusing a lord's heir is more trouble than accommodating one.
 
-I followed him into the heat.
-
-The forge was everything I'd expected and less.
-
-That sounds cruel. It wasn't meant to be. Tobho's forge was a competent, functional workspace, well-organized, well-maintained, equipped with the tools and infrastructure necessary to serve a great castle's metalworking needs. He had an anvil of good quality, a coal forge with a side-blast tuyere, a quench trough, a grinding stone, racks of hammers and tongs in graduated sizes, and the accumulated paraphernalia of a career spent turning raw metal into useful objects.
+I followed him into the heat. The forge was everything I'd expected and less, which sounds cruel but wasn't meant to be. It wasn't meant to be. Tobho's forge was a competent, functional workspace, well-organized, well-maintained, equipped with the tools and infrastructure necessary to serve a great castle's metalworking needs. He had an anvil of good quality, a coal forge with a side-blast tuyere, a quench trough, a grinding stone, racks of hammers and tongs in graduated sizes, and the accumulated paraphernalia of a career spent turning raw metal into useful objects.
 
 What he didn't have was temperature, or at least enough of it. The forge ran on traditional charcoal, the inconsistent, partially-converted stuff that the castle's regular supplier provided, and the bellows were the standard type: two leather bags on a wooden frame, pumped by hand or by apprentice, delivering air to the fire in intermittent pulses that raised the temperature in bursts but couldn't sustain the steady, high-oxygen environment that serious metallurgy required.
 
 The result was iron and low-carbon steel. Serviceable. Functional. The kind of metalwork that equipped Highgarden's guards and kitchen staff and horse shoes and door hinges and the hundred other mundane applications that kept a castle running. Tobho was good, better than good; he was skilled and experienced and had the craftsman's intuition that comes from decades of watching metal move under the hammer. But he was working with limitations that he couldn't see because he'd never worked without them.
 
-The bellows were the bottleneck. More air meant more oxygen meant higher temperatures meant better steel. The equation was that simple.
-
-I didn't say any of this. I watched. I asked questions. I sat on an upturned bucket because there were no chairs in a smithy and I was too short for the standing-height surfaces, and I observed Tobho working a piece of iron bar into a door bracket, studying his technique the way a student studies a master in class.
+The bellows were the bottleneck. More air meant more oxygen meant higher temperatures meant better steel. I didn't say any of this. I watched. I asked questions. I sat on an upturned bucket because there were no chairs in a smithy and I was too short for the standing-height surfaces, and I observed Tobho working a piece of iron bar into a door bracket, studying his technique the way a student studies a master in class.
 
 His hammer work was precise. Economical. He didn't waste energy on showy strikes; each blow landed where it needed to land, with the force it needed, at the angle that moved the metal in the desired direction. The apprentice, a boy of maybe fourteen with the permanently startled expression of someone who'd recently discovered that metalworking involved getting very hot, pumped the bellows on command and fetched tools with the scrambling urgency of the young and terrified.
 
@@ -70,7 +64,7 @@ Another pause. Longer this time. Tobho set down his hammer, which was the smith'
 
 I brought him the drawings the next day.
 
-Not my drawings. I'd redrawn them overnight, translating The Book's precise technical diagrams into something that looked like a clever child's attempt to design a bigger bellows. Slightly messy. Slightly naive. With labels that spelled things almost correctly and dimensions that were given in terms like [I]this long[/I] with an arrow, rather than precise measurements.
+I'd redrawn them overnight, translating The Book's precise technical diagrams into something that looked like a clever child's attempt to design a bigger bellows. Slightly messy. Slightly naive. With labels that spelled things almost correctly and dimensions that were given in terms like [I]this long[/I] with an arrow, rather than precise measurements.
 
 The underlying design, however, was sound. Double-acting bellows, a hinged pair of chambers that delivered air on both the up-stroke and the down-stroke, eliminating the dead space in the pumping cycle where traditional single-chamber bellows delivered no air at all. The result: continuous airflow instead of pulsed, roughly twice the volume per minute, at pressures that were higher and more consistent.
 
@@ -100,9 +94,7 @@ Tobho looked at me over the top of the parchment. The skepticism was still there
 
 "Book's not wrong." He set the parchment down on the anvil, anchoring it with a hammer. "Whoever drew this knew what they were about."
 
-The Qohorik author. The fictional Qohorik author, whose book on metalworking had described bellows that happened to match the ones The Book detailed in its section on pre-industrial metallurgy. Convenient, that.
-
-"Can you build it?"
+The Qohorik author. The fictional Qohorik author, whose book on metalworking had described bellows that happened to match the ones The Book detailed in its section on pre-industrial metallurgy. Convenient, that. "Can you build it?"
 
 Tobho scratched the back of his neck. The gesture of a man doing math. "The chambers, wood and leather, same as what I've got. The valves, those I'd need to think on. Leather wears. Gets stiff. If the flap doesn't seat properly, you lose your seal and you're back to pulsing."
 
@@ -146,25 +138,19 @@ Tobho gave me a look. The look of a man being told something by a child that he 
 
 "Then the tallow should hold."
 
-He grunted. The Tobho version of [I]you're right and I'll never say so out loud[/I].
-
-The rebuild took a day. Thinner, softer leather for the valve flaps. Tallow on the seats. Chain hinges instead of stitched ones, as Tobho had suggested in our first conversation, because the man remembered every detail of every design discussion and implemented improvements without being reminded.
+He grunted. The Tobho version of [I]you're right and I'll never say so out loud[/I]. The rebuild took a day. Thinner, softer leather for the valve flaps. Tallow on the seats. Chain hinges instead of stitched ones, as Tobho had suggested in our first conversation, because the man remembered every detail of every design discussion and implemented improvements without being reminded.
 
 Version two worked well. Far from perfectly: there was still a slight wheeze in the left chamber that drove Tobho to quiet fury. But well enough that the forge temperature climbed to a point where Tobho could do something he said he hadn't done consistently in years.
 
-He reached welding heat.
-
-I watched him forge-weld two pieces of iron bar into a single piece, the metal at yellow-white heat, the hammer blows sending showers of sparks that the apprentice dodged with practiced agility. The weld was clean. Solid. When Tobho examined it after quenching, turning the piece over in his tongs, his face had the expression of a man rediscovering something he'd lost.
+He reached welding heat, and I watched him forge-weld two pieces of iron bar into a single piece, the metal at yellow-white heat, the hammer blows sending showers of sparks that the apprentice dodged with practiced agility. The weld was clean. Solid. When Tobho examined it after quenching, turning the piece over in his tongs, his face had the expression of a man rediscovering something he'd lost.
 
 "Good heat," he said. Two words carrying the weight of twenty years of frustration at working with insufficient tools.
 
 "Good bellows," I said.
 
-He looked at me. Then, and this was remarkable enough to warrant documenting — he smiled. A small smile, reluctant, extracted from his face against its will by the sheer pressure of professional satisfaction. But a smile.
+He looked at me. Then, remarkable enough to warrant documenting, he smiled. A small smile, reluctant, extracted from his face against its will by the sheer pressure of professional satisfaction. "Good bellows," he agreed.
 
-"Good bellows," he agreed.
-
-The steel came next. Because steel was the point. Steel was always the point.
+The steel came next, because steel was always the point.
 
 Iron was soft. Useful, versatile, the backbone of every medieval economy, but [I]soft[/I]. An iron blade could be sharpened, but it dulled quickly. An iron tool could be shaped, but it bent under stress. Iron was the baseline, the material that worked well enough until you needed something that worked well, at which point you needed steel.
 
@@ -198,9 +184,7 @@ Tobho knew the principle. Of course he did; he'd been making steel for thirty ye
 
 "I'll provide the charcoal. From the kiln. No cost to you."
 
-He uncrossed his arms. Progress.
-
-We set up the first carburization run that afternoon. A small bar of wrought iron, nothing special, stock material from Tobho's supply, packed in a clay crucible filled with crushed charcoal from my kiln. The crucible went into the forge, the bellows pumped to a steady rhythm by Pate, and we waited.
+He uncrossed his arms. We set up the first carburization run that afternoon. A small bar of wrought iron, nothing special, stock material from Tobho's supply, packed in a clay crucible filled with crushed charcoal from my kiln. The crucible went into the forge, the bellows pumped to a steady rhythm by Pate, and we waited.
 
 Four hours. Tobho worked on other things; a castle needed horseshoes and hinges regardless of what experimental metallurgy was happening in the corner, but I saw him glancing at the crucible every few minutes, checking the color of the glow, assessing the temperature by sight the way he assessed everything.
 
@@ -220,13 +204,13 @@ It wasn't great steel, of course. It was no Valyrian work, no Qohorik master-bla
 
 "It's the carbon," I said, and then cursed myself silently because [I]carbon[/I] was not a word that existed in the Westerosi vocabulary and Tobho was looking at me with an expression that demanded explanation.
 
-"The... charcoal essence. The burning part of the charcoal. It goes into the iron when you soak it. Makes it harder." Crude. Reductive. Scientifically painful. But close enough to the truth to be useful and vague enough to be plausible.
+"The... charcoal essence. The burning part of the charcoal. It goes into the iron when you soak it. Makes it harder." The explanation was crude and reductive and scientifically painful, but close enough to be useful and vague enough to be plausible.
 
 "Charcoal into iron," Tobho said. He turned the bar over again. "My master used to say the fire put its strength into the metal. Thought it was poetry." He looked at me. "Maybe it was closer to the truth than I thought."
 
 "The fire's just the delivery method. The charcoal is the ingredient."
 
-He nodded. Slowly, the way a man nods when he's rebuilding his understanding of something fundamental. "That's why your kiln charcoal works better. More of the... ingredient."
+He nodded slowly, processing, rebuilding something in his understanding. "That's why your kiln charcoal works better. More of the... ingredient."
 
 "More of the ingredient. Less of everything else."
 
@@ -234,9 +218,7 @@ A silence. The forge breathed. The apprentice pumped. Somewhere outside, a bird 
 
 "What else," Tobho said, "is in that book of yours?"
 
-I smiled. The real smile, the one I usually kept hidden, the one that had nothing to do with being eight years old.
-
-"Quite a lot, actually."
+I smiled, the real smile, the one I usually kept hidden, the one that had nothing to do with being eight years old. "Quite a lot, actually."
 
 [HR]
 
@@ -254,7 +236,7 @@ He already did this, roughly. Most experienced smiths did, through trial and err
 
 "Straw for cutting edges. Purple for chopping edges. Blue for things that bend." He recited it back the way he'd recite a recipe — a man fitting new knowledge into existing experience. "I've seen the colors. Always thought they were... incidental. Didn't know they [I]meant[/I] something."
 
-"Everything means something. If you know how to read it."
+"Everything means something, if you know how to read it."
 
 He gave me a look. The skeptical look of the first day was gone. This was something deeper. Something that might, under the soot and the stubbornness and the wariness Tobho had built up over a life of being told what to do by people who understood less than he did, have been gratitude.
 
@@ -264,9 +246,7 @@ He gave me a look. The skeptical look of the first day was gone. This was someth
 
 "That's not an insult."
 
-"I know."
-
-The first truly good knife came off the anvil six weeks after we'd started. Medium-carbon steel, carburized for six hours, forged at welding heat, quenched in water, tempered to straw yellow. Tobho ground the edge himself, with the careful attention of a man who knew he was working material that deserved his best effort.
+"I know." The first truly good knife came off the anvil six weeks after we'd started. Medium-carbon steel, carburized for six hours, forged at welding heat, quenched in water, tempered to straw yellow. Tobho ground the edge himself, with the careful attention of a man who knew he was working material that deserved his best effort.
 
 He tested it on a piece of leather, and the edge bit in clean, slicing with an ease that made his standard knives look like they were made of cheese. He shaved a curl of wood off a block of oak. He ran his thumb along the flat, feeling for the balance, the weight, the indefinable [I]rightness[/I] that a smith could sense and a metallurgist could only measure.
 
@@ -280,9 +260,7 @@ He nodded. Set the knife on the anvil. Picked it up again, as if reluctant to le
 
 "Better analogy than you think. The baker who measures his flour makes better bread than the baker who guesses."
 
-A long pause. The forge popped and settled.
-
-"I'm going to need more of that charcoal," Tobho said.
+"I'm going to need more of that charcoal," Tobho said, after a long pause.
 
 I grinned. "I'm going to need more of those knives."
 
@@ -292,4 +270,4 @@ But the trunk was growing. I could feel it. Root to trunk, charcoal to steel, th
 
 Tobho picked up his hammer. Pate pumped the bellows. And I sat on my upturned bucket, notebook on my knee, and began to sketch the next improvement.
 
-A water-powered trip hammer. But that was a project for another day.
+A water-powered trip hammer, but that was a project for another day.
