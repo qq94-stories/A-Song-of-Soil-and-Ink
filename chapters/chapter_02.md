@@ -125,5 +125,3 @@ Then I picked up a wooden block from the toy chest by my bed, and I practiced gr
 You build a cathedral one stone at a time. The Book said so.
 
 It neglected to mention that the stonemason would be four years old and working with fingers like sausages.
-
----
