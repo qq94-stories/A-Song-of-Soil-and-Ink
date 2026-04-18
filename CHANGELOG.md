@@ -19,6 +19,7 @@ repo. Reader-facing.
 | 10 | The Workshop | 2026-04-09 | ~4,700 | Arc 2 opens |
 | 11 | The Blacksmith | 2026-04-11 | ~5176 |  |
 | 12 | The Test Plots | 2026-04-15 | ~4732 |  |
+| 13 | Distilled Spirits | 2026-04-18 | ~5599 |  |
 
 **Total released:** 10 chapters, ~45,000 words.
 

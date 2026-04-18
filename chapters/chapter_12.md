@@ -230,7 +230,7 @@ The total food production from the four-field plots — counting the grain, the 
 
 And no fallow year. Every acre productive, every cycle. The three-field system left a third of its land empty at any given time. The four-field system left none. This alone was worth a 33 percent increase in effective acreage — before you even counted the yield improvements.
 
-[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/published/IMAGE%2010.png[/IMG]
+[IMG]https://raw.githubusercontent.com/qq94-stories/A-Song-of-Soil-and-Ink/main/images/published/IMAGE%2010%20NEW.png[/IMG]
 
 I compiled the data. Four and a half years of records, three full cycles, Donal's careful observations supplemented by my analysis, organized into a report that I presented to Merrell on a cool morning with the ceremonial gravity of a general presenting battle plans.
 
