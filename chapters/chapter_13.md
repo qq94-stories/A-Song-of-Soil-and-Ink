@@ -82,7 +82,7 @@ The finished still was a thing of beauty. Not in the aesthetic sense (it looked,
 
 Aldric delivered it to my workshop on a morning when the light was good and my anticipation was barely contained. He set it on the work table with both hands, stepped back, and regarded it with the proprietary satisfaction of a craftsman surveying a finished piece.
 
-"There she is. Nine days, fourteen annealing cycles on that coil, and I resoldered the lyne arm joint twice because the first time it had a hair's width gap that would've driven me mad. Not that anyone else would've noticed, but I'd have known, and that's worse. If this does what you say it does, my lord, I want to know everything. How it works, why it works, what else you've got in that head of yours, because I've been making pots and pipes for ten years and this is the first interesting thing anyone's asked me to build."
+"There she is. Nine days, fourteen annealing cycles on that coil, and I resoldered the neck joint twice because the first time it had a hair's width gap that would've driven me mad. Not that anyone else would've noticed, but I'd have known, and that's worse. If this does what you say it does, my lord, I want to know everything. How it works, why it works, what else you've got in that head of yours, because I've been making pots and pipes for ten years and this is the first interesting thing anyone's asked me to build."
 
 "If it works," I said, "I'll tell you everything."
 
@@ -102,7 +102,7 @@ Harmon was there. He'd been in from the beginning — the beans, the kiln, the c
 
 The pot heated. The wine warmed. I could smell it, the sharp, sweet scent of warm alcohol cutting through the workshop's usual aroma of charcoal and oak and the faint metallic tang that Tobho's forge contributed to everything within a fifty-yard radius.
 
-After perhaps twenty minutes, the first vapor appeared in the lyne arm, a faint shimmer in the copper tube, visible only because I was watching for it with an intensity that probably looked unhinged. The vapor traveled up the arm, over the curve, and down into the coil, where it met the cold water of the condenser barrel and—
+After perhaps twenty minutes, the lyne arm grew warm under my fingertips and a bead of condensation formed on the outside of the copper, the tube sweating as hot vapor met cooler metal. I was watching for it with an intensity that probably looked unhinged. The vapor traveled up the arm, over the curve, and down into the coil, where it met the cold water of the condenser barrel and—
 
 A drop. A single, clear drop fell from the coil's outlet into the waiting jug.
 

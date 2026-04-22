@@ -92,7 +92,7 @@ We both knew Father wouldn't mind because Father wouldn't notice. Mace's engagem
 
 "The maester—"
 
-"Will want to know too. I'll speak to him." I'd rather have that conversation myself than let Normund hear it secondhand from servants and arrive at my door already offended.
+"Will want to know too. I'll speak to him." I'd rather have that conversation myself than let Lomys hear it secondhand from servants and arrive at my door already offended.
 
 Merrell regarded me for a long moment. The spectacles went back on, which meant the deliberation was over and the decision was made.
 
@@ -104,7 +104,7 @@ I nearly laughed. He wanted numbers. He was asking me for the one thing I wanted
 
 [HR]
 
-I didn't get to Maester Normund first. He got to me.
+I didn't get to Maester Lomys first. He got to me.
 
 He appeared in my workshop the day after Merrell began preparing the test plots, his chain clinking and his expression already set. He wouldn't presume to be angry with the heir, but he was wounded in that particular way of a man whose expertise had been bypassed.
 
@@ -134,7 +134,7 @@ He opened his mouth. Closed it. Opened it again.
 
 "I will be observing these plots," he said. It wasn't a request. He was staking his claim — if agriculture was going to change on his watch, the Citadel's representative would be on record as having overseen it. The implicit corollary was clear: [I]and if it fails, I will have documented exactly why[/I].
 
-But under the institutional posturing I caught something I hadn't expected: a sliver of genuine curiosity. Normund had studied agriculture. He'd read the texts. If the test plots produced interesting results, the scholar in him, buried under the conservative but alive, would want to understand why.
+But under the institutional posturing I caught something I hadn't expected: a sliver of genuine curiosity. Lomys had studied agriculture. He'd read the texts. If the test plots produced interesting results, the scholar in him, buried under the conservative but alive, would want to understand why.
 
 "I'd welcome that, Maester. Your observations would be valuable."
 
@@ -190,7 +190,7 @@ I visited the plots every week. Sometimes more. I measured the wheat height with
 
 Donal kept his records. They were rough at first; [I]wheat is growing fine[/I] was not the level of detail I was after, but he improved with guidance, and by the second month his entries had evolved into genuinely useful observations: [I]wheat Plot 1 — 14 inches average height, no yellowing, three weeds pulled. Barley Plot 3 — 9 inches, some crowding at the east edge, thinned.[/I]
 
-Maester Normund visited twice. Both times, he walked the plots with his hands behind his back and his chain clinking, the posture of a man conducting an inspection. Both times, he said nothing and left. I took this as a positive sign. If the plots had been failing, he'd have said something. His silence was the sound of a man who had nothing to criticize and wasn't happy about it.
+Maester Lomys visited twice. Both times, he walked the plots with his hands behind his back and his chain clinking, the posture of a man conducting an inspection. Both times, he said nothing and left. I took this as a positive sign. If the plots had been failing, he'd have said something. His silence was the sound of a man who had nothing to criticize and wasn't happy about it.
 
 The harvest came at cycle's end. Wheat first, then the turnips, then barley. The clover stayed; it would be ploughed under before the next planting, its biomass and nitrogen-rich root nodules incorporated into the soil for the next cycle.
 
@@ -198,7 +198,7 @@ Merrell weighed the harvests personally.
 
 The wheat was first, and the numbers were... fine. Fourteen bushels per acre on the test plot. Fourteen on the control. Identical. The soil hadn't had time to change yet; the clover's work was still ahead, still underground, still building toward something the first harvest couldn't show. I'd expected this. The four-field system wasn't magic. It was chemistry, and chemistry needed time.
 
-Maester Normund, I learned later, smiled when he heard the wheat numbers. Fourteen and fourteen. The boy's experiment had produced exactly what the traditional system produced, and wasn't that interesting.
+Maester Lomys, I learned later, smiled when he heard the wheat numbers. Fourteen and fourteen. The boy's experiment had produced exactly what the traditional system produced, and wasn't that interesting.
 
 But the wheat wasn't the point. Not yet.
 
@@ -222,7 +222,7 @@ Twenty-nine percent improvement. From the same field, the same seed, the same we
 
 The barley showed a similar jump. Sixteen bushels versus twelve on the control.
 
-Normund stopped smiling.
+Lomys stopped smiling.
 
 The third cycle made it impossible to deny. Wheat yields on the four-field plots hit 20 bushels per acre, compared to a consistent 14 on the three-field controls. A 43 percent improvement, driven by the cumulative enrichment of the clover and the soil-structure benefits of the turnip roots.
 
@@ -240,7 +240,7 @@ When he finished, he set the report down. Removed his spectacles. Looked at me.
 
 "These numbers," he said. "They're verified?"
 
-"By Donal's daily records. By Harmon's observations. By your own harvest weights." I paused. "And by Maester Normund's visits, if he kept notes of his own."
+"By Donal's daily records. By Harmon's observations. By your own harvest weights." I paused. "And by Maester Lomys's visits, if he kept notes of his own."
 
 "He did." Merrell's voice was neutral, which from Merrell was practically enthusiasm. "He showed them to me last week. His numbers match yours."
 
