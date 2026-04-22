@@ -20,6 +20,7 @@ repo. Reader-facing.
 | 11 | The Blacksmith | 2026-04-11 | ~5176 |  |
 | 12 | The Test Plots | 2026-04-15 | ~4732 |  |
 | 13 | Distilled Spirits | 2026-04-18 | ~5599 |  |
+| 14 | Interlude: Olenna — "The Rose's Roots" | 2026-04-22 | ~3199 |  |
 
 **Total released:** 10 chapters, ~45,000 words.
 
