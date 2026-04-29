@@ -21,6 +21,8 @@ repo. Reader-facing.
 | 12 | The Test Plots | 2026-04-15 | ~4732 |  |
 | 13 | Distilled Spirits | 2026-04-18 | ~5599 |  |
 | 14 | Interlude: Olenna — "The Rose's Roots" | 2026-04-22 | ~3199 |  |
+| 15 | Oldtown | 2026-04-25 | ~3958 |  |
+| 16 | Interlude: Malora — "The Mad Maid" | 2026-04-29 | ~5033 |  |
 
 **Total released:** 10 chapters, ~45,000 words.
 
