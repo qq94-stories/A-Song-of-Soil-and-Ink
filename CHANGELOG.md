@@ -23,6 +23,7 @@ repo. Reader-facing.
 | 14 | Interlude: Olenna — "The Rose's Roots" | 2026-04-22 | ~3199 |  |
 | 15 | Oldtown | 2026-04-25 | ~3958 |  |
 | 16 | Interlude: Malora — "The Mad Maid" | 2026-04-29 | ~5033 |  |
+| 17 | Clean Hands | 2026-05-03 | ~5777 |  |
 
 **Total released:** 10 chapters, ~45,000 words.
 
